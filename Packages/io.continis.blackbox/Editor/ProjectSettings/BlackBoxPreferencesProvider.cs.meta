@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 96a774af5adb94a3fa3f377470dfd81c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389198
+  packageName: BlackBox 2 - Redefined Prefab Workflow
+  packageVersion: 2.0.2
+  assetPath: Packages/io.continis.blackbox/Editor/ProjectSettings/BlackBoxPreferencesProvider.cs
+  uploadId: 960314

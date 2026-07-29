@@ -1,0 +1,15 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="project://database/Packages/io.continis.blackbox/UI/UIToolkit/BB_Styles.uss?fileID=7433441132597879392&amp;guid=d44be3474fc224dd28581e25055240cf&amp;type=3#BB_Styles" />
+    <ui:VisualElement name="InitialSpace" />
+    <uie:PropertyField label="Locked" name="LockedProperty" binding-path="_locked" />
+    <uie:PropertyField binding-path="_disableApply" label="Disable Apply" name="DisableApplyProperty" tooltip="Disable the ability to Apply Prefab overrides. Revert remains possible. This option also disables the Overrides dropdown." />
+    <ui:Foldout text="Behaviour" value="false" view-data-key="BlackBox_CustomiseBehaviour" name="CustomiseBehaviour">
+        <ui:Label text="Keep Unlocked" name="UnlockIf" double-click-selects-word="false" triple-click-selects-line="false" tooltip="Keep the BlackBox unlocked in special cases, even if internall it&apos;s locked." class="indented-label" />
+        <uie:PropertyField binding-path="_unlockIfNested" label="When Nested" name="UnlockIfNestedProperty" tooltip="Even if locked, the Prefab will show as unlocked when nested inside another Prefab." class="indented-property" />
+        <uie:PropertyField binding-path="_unlockIfVariantRoot" label="If Variant Root" name="UnlockIfVariantRootProperty" tooltip="Even if locked, the Prefab will show as unlocked when used as the root of a Prefab Variant." class="indented-property" />
+    </ui:Foldout>
+    <ui:Foldout text="Options" view-data-key="BlackBox_OtherOptions" value="false" name="OtherOptions">
+        <uie:PropertyField binding-path="_selectionType" label="Selection Type" name="SelectionTypeProperty" tooltip="What method to use for sub-object selection in the Scene view. Use Root Object uses the root GameObject, but requires it to have a mesh or an icon. Use 3D Meshes uses a combined mesh of all sub-objects, which is precise but can be expensive for objects with high-detail geometry. Use Bounding Boxes simplifies the selection to the bounding boxes containing the sub-meshes. This is the default." />
+        <uie:PropertyField binding-path="_hideTransform" label="Hide Transform" name="HideTransformProperty" tooltip="The Transform component (or RectTransform for UI elements) is hidden too." />
+    </ui:Foldout>
+</ui:UXML>

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 262c41a0085848b7a34c64222acb3f3e
+timeCreated: 1706171455
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389198
+  packageName: BlackBox 2 - Redefined Prefab Workflow
+  packageVersion: 2.0.2
+  assetPath: Packages/io.continis.blackbox/Editor/SceneWatcher.cs
+  uploadId: 960314

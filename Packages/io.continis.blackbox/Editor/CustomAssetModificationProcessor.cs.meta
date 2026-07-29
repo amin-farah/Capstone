@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 61f9d30f2a5d413282d249b8b6e2a6a8
+timeCreated: 1709160854
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389198
+  packageName: BlackBox 2 - Redefined Prefab Workflow
+  packageVersion: 2.0.2
+  assetPath: Packages/io.continis.blackbox/Editor/CustomAssetModificationProcessor.cs
+  uploadId: 960314

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bc831ebb1dcd745d587a094b15366f71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389198
+  packageName: BlackBox 2 - Redefined Prefab Workflow
+  packageVersion: 2.0.2
+  assetPath: Packages/io.continis.blackbox/Editor/CustomEditors/TransformRotationGUI.cs
+  uploadId: 960314

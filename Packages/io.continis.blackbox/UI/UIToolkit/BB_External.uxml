@@ -1,0 +1,16 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="project://database/Packages/io.continis.blackbox/UI/UIToolkit/BB_Styles.uss?fileID=7433441132597879392&amp;guid=d44be3474fc224dd28581e25055240cf&amp;type=3#BB_Styles"/>
+    <ui:VisualElement name="InitialSpace"/>
+    <ui:VisualElement name="Messages">
+        <ui:Button name="TempUnlockButton" class="temp-unlock-button mini-button"/>
+        <ui:Label tabindex="-1" text="Prefab is locked" parse-escape-sequences="false" display-tooltip-when-elided="true" name="LockedMessage" tooltip="Child objects and components are hidden. Go into Prefab Mode to unlock." style="margin-right: 1px;"/>
+        <ui:Label tabindex="-1" text="| Apply is disabled" display-tooltip-when-elided="true" name="ApplyDisabledMessage" tooltip="Applying overrides is disabled. Go into Prefab Mode to re-enable them."/>
+        <ui:VisualElement name="Spacer" style="flex-grow: 1;"/>
+        <ui:Button name="OverridesButton" tooltip="Click to temporarily visualise and override the properties of the BlackBox component." focusable="false" class="mini-button"/>
+    </ui:VisualElement>
+    <ui:GroupBox name="ListButtonsGroup" style="flex-direction: row; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 4px; padding-left: 0;">
+        <ui:Button text="+" parse-escape-sequences="true" display-tooltip-when-elided="true" name="AddListButton" class="GroupBtnRight"/>
+    </ui:GroupBox>
+    <ui:VisualElement name="RevealedProperties"/>
+    <ui:VisualElement style="flex-grow: 1;"/>
+</ui:UXML>

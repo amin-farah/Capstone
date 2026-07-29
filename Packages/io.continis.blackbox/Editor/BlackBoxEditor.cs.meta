@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: ae45914132da40839fa44d31de583ff1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _internalEditor: {fileID: 9197481963319205126, guid: 8d9a2c02021dd45468bdb7fe15d21e79,
+      type: 3}
+  - _externalEditor: {fileID: 9197481963319205126, guid: 57acb39450fec430faf3961d003730be,
+      type: 3}
+  - _assetMultiSelectionEditor: {fileID: 9197481963319205126, guid: 36f7cc579f8d54d42b0b38b4cf1a627a,
+      type: 3}
+  - _singleProperty: {fileID: 9197481963319205126, guid: 1c4838586961e4d0b86ead3c3ed29e37,
+      type: 3}
+  - _singleMethod: {fileID: 9197481963319205126, guid: d93f57e67f6b041fbb32163ac8233644,
+      type: 3}
+  - _entireComponent: {fileID: 9197481963319205126, guid: dec0602e4c26b432eb81d224534a0b9a,
+      type: 3}
+  - _objectReferenceTemplate: {fileID: 9197481963319205126, guid: 68f2897c662c04cee9c904d4644de222,
+      type: 3}
+  - _childGameObjectTemplate: {fileID: 9197481963319205126, guid: 832d6024584284faf9de9ccaf95e9955,
+      type: 3}
+  - _allPropertiesTemplate: {fileID: 9197481963319205126, guid: dc20a4b6c3ce64e849852b579f520170,
+      type: 3}
+  - _styles: {fileID: 7433441132597879392, guid: d44be3474fc224dd28581e25055240cf,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389198
+  packageName: BlackBox 2 - Redefined Prefab Workflow
+  packageVersion: 2.0.2
+  assetPath: Packages/io.continis.blackbox/Editor/BlackBoxEditor.cs
+  uploadId: 960314

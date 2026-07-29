@@ -1,0 +1,564 @@
+#Messages {
+    flex-direction: row;
+    margin-top: 1px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+    align-items: center;
+}
+
+#RevealedPropertiesHeader {
+    flex-direction: row;
+    margin-top: 8px;
+    margin-bottom: 1px;
+    align-items: center;
+    height: 22px;
+}
+
+#RevealedPropertiesLabel {
+    -unity-font-style: bold;
+    flex-grow: 1;
+}
+
+#RemoveAllButton {
+}
+
+.unity-foldout__content {
+    margin-left: 0;
+}
+
+.GOName {
+    padding: 4px;
+    background-color: var(--unity-colors-box-background);
+}
+
+.RevealedGO {
+    color: var(--unity-colors-highlight-background-hover-lighter);
+    margin-bottom: 3px;
+    margin-top: 5px;
+    margin-left: -15px;
+    margin-right: -6px;
+    padding-left: 17px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 4px;
+    flex-direction: row;
+}
+
+.FoldoutGO {
+    -unity-font-style: normal;
+    margin-top: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 4px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    padding-right: 4px;
+    margin-bottom: 0;
+}
+
+#InitialSpace {
+    height: 5px;
+}
+
+#HideShowButton {
+    height: 24px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 1px;
+    margin-right: 1px;
+    text-overflow: ellipsis;
+    transition-property: background-color;
+    transition-duration: 0.125s;
+    transition-timing-function: ease-out;
+}
+
+#HideShowButton.flash-highlight {
+    background-color: var(--unity-colors-button-background-hover_pressed);
+}
+
+.SubtleLabel {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-left: 0;
+    opacity: 0.5;
+}
+
+#RevealedProperties {
+    margin-top: 0;
+}
+
+.internal .PropertyLine {
+    margin-bottom: 3px;
+    margin-top: 1px;
+}
+
+#RevealedItemsListView .unity-collection-view__item--alternative-background,
+#RevealedItemsListView .unity-list-view__item--alternative-background {
+    background-color: transparent;
+}
+
+#RevealedItemsListView .unity-collection-view__item--alternative-background:hover,
+#RevealedItemsListView .unity-list-view__item--alternative-background:hover {
+    background-color: var(--unity-colors-highlight-background-hover);
+}
+
+#RevealedItemsListView .unity-collection-view__item--alternative-background:checked,
+#RevealedItemsListView .unity-list-view__item--alternative-background:checked {
+    background-color: var(--unity-colors-highlight-background);
+}
+
+#RevealedItemsListView #RevealedItemRow > * {
+    margin-bottom: 3px;
+    margin-left: 0;
+}
+
+.blackbox-override {
+    border-left-color: rgb(5, 147, 224);
+    border-left-width: 2px;
+    margin-left: -15px;
+    padding-left: 15px;
+    -unity-font-style: bold;
+}
+
+.UnityEventButton {
+    flex-basis: 100%;
+    margin-top: 1px;
+    margin-bottom: 3px;
+    height: 20px;
+}
+
+.AddRemoveBtn {
+    flex-basis: initial;
+    padding-top: 0;
+    max-height: 18px;
+    max-width: 18px;
+    margin-top: 1px;
+}
+
+.TypeLabel {
+    align-self: auto;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    -unity-font-style: normal;
+    font-size: 10px;
+    padding-top: 0;
+    padding-right: 2px;
+    padding-bottom: 1px;
+    padding-left: 3px;
+    max-height: 13px;
+    min-width: 14px;
+    -unity-text-align: middle-center;
+    margin-top: 4px;
+    color: var(--unity-colors-button-text);
+    background-color: var(--unity-colors-button-background);
+}
+
+.TypeLabel.Clickable:hover {
+    background-color: var(--unity-colors-button-background-hover);
+}
+
+.RevealedAsField {
+    flex-grow: 1;
+    height: 18px;
+    flex-basis: 55%;
+    padding-left: 2px;
+    flex-shrink: 0;
+}
+
+.RevealedAsField Label {
+    -unity-text-align: upper-right;
+    flex-grow: 0;
+    flex-shrink: 1;
+    min-width: 0;
+}
+
+.RevealedAsField TextInput {
+    padding-left: 2px;
+    padding-right: 4px;
+    flex-grow: 1;
+}
+
+.RevealedAsField TextElement {
+}
+
+#MethodName {
+    margin-left: 4px;
+    margin-right: 0;
+    margin-top: 2px;
+    flex-basis: 55%;
+    height: 18px;
+    -unity-text-align: middle-left;
+    margin-bottom: 0;
+}
+
+#ActualProp {
+    align-self: center;
+    margin-right: 0;
+    flex-basis: 55%;
+    margin-top: 1px;
+    flex-grow: 1;
+    flex-shrink: 0;
+}
+
+#ActualProp Toggle {
+    margin-right: 3px;
+    margin-bottom: 2px;
+}
+
+.EntireInspectorFoldout {
+    margin-left: 13px;
+    flex-grow: 1;
+}
+
+.EntireInspectorFoldout > .unity-foldout__content {
+    margin-left: -62px;
+}
+
+.EntireInspectorFoldout Toggle #unity-checkmark {
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0.5);
+}
+
+.NoPropertiesLabel {
+    margin-left: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.EntireComponentLabel {
+    -unity-text-align: middle-left;
+    margin-left: 4px;
+}
+
+.RotationIMGUIContainer {
+    margin-left: -26px;
+    margin-top: -1px;
+}
+
+InspectorElement #unity-input-m_Script {
+    display: none;
+}
+
+.external InspectorElement {
+    margin-left: -15px;
+}
+
+HelpBox {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding: 4px;
+}
+
+HelpBox .unity-help-box__icon {
+    min-height: 16px;
+    min-width: 16px;
+    margin: 2px;
+    align-self: center;
+}
+
+.GroupBtnLeft {
+    padding-left: 8px;
+    padding-right: 8px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-right: -1px;
+    margin-left: 0;
+}
+
+.GroupBtnCenter {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-right: -1px;
+    margin-left: 0;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.GroupBtnRight {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+#EditModeControls {
+    margin-bottom: 4px;
+    margin-top: 2px;
+}
+
+.ListButton {
+    padding-right: 1px;
+    padding-left: 1px;
+    text-overflow: ellipsis;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.ButtonSelected {
+    background-color: var(--unity-colors-button-background-hover);
+    -unity-font-style: bold;
+}
+
+.ButtonToggledOn {
+    background-color: var(--unity-colors-button-background-pressed);
+}
+
+.DimmedBtn {
+    color: var(--unity-colors-slider_thumb-background);
+}
+
+#ReorderList {
+    margin-bottom: 6px;
+    margin-left: 0;
+    margin-top: -1px;
+}
+
+#ReorderList .unity-foldout__toggle {
+    margin-bottom: 4px;
+    margin-left: -12px;
+}
+
+#ReorderLine {
+    margin-left: -6px;
+}
+
+.entire-component > .unity-foldout__toggle:checked {
+    margin-bottom: 0;
+}
+
+.entire-component > .unity-foldout__toggle {
+    padding-top: 2px;
+    border-top-width: 1px;
+    border-top-color: var(--unity-colors-inspector_titlebar-border_accent);
+    border-bottom-color: var(--unity-colors-inspector_titlebar-border_accent);
+    margin-left: -15px;
+    margin-right: -6px;
+    padding-left: 2px;
+    padding-bottom: 4px;
+    border-bottom-width: 1px;
+    margin-top: 1px;
+    margin-bottom: -1px;
+    background-color: var(--unity-colors-inspector_titlebar-background);
+}
+
+.go-icon {
+    width: 10px;
+    height: 15px;
+    opacity: 0.4;
+    margin-right: 3px;
+    margin-left: 2px;
+}
+
+.unity-header-drawer__label {
+    margin-top: 9px;
+}
+
+.indented-label {
+    margin-left: 2px;
+    margin-bottom: 3px;
+    margin-top: 1px;
+}
+
+.indented-property {
+    padding-left: 18px;
+}
+
+.object-field_no-picker ObjectFieldSelector {
+    display: none;
+}
+
+#HeaderConcealer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 22px;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#FakeHelpButton {
+    position: absolute;
+    top: 0;
+    right: 41px;
+    flex-grow: 0;
+    width: 22px;
+    height: 22px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.component-header-fader {
+    position: absolute;
+    flex-grow: 0;
+    height: 20px;
+    margin-top: 1px;
+    margin-right: 0;
+    margin-bottom: 1px;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+}
+
+#EnableButtonFader {
+    width: 20px;
+    left: 37px;
+}
+
+#LastButtonsFader {
+    width: 44px;
+    right: 0;
+}
+
+.mini-button {
+    margin-top: 0;
+    margin-right: 4px;
+    margin-bottom: 0;
+    margin-left: 0;
+    -unity-background-image-tint-color: var(--unity-colors-slider_thumb-background-hover);
+    -unity-background-scale-mode: scale-to-fit;
+    background-size: 12px 12px;
+    width: 20px;
+    height: 20px;
+}
+
+.AnnotationButtonsGroup {
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+}
+
+.AnnotationButtonsGroup Button {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 2px;
+    padding-right: 2px;
+    text-overflow: ellipsis;
+}
+
+.annotation-header {
+    -unity-font-style: bold;
+    margin-top: 6px;
+    margin-bottom: 2px;
+    margin-left: 0;
+    white-space: normal;
+}
+
+.annotation-separator {
+    height: 1px;
+    margin-top: 14px;
+    margin-bottom: 6px;
+    background-color: var(--unity-colors-default-border);
+}
+
+.annotation-edit-line {
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 3px;
+    margin-top: 1px;
+}
+
+.annotation-edit-text {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 55%;
+    height: 18px;
+    padding-left: 2px;
+}
+
+.annotation-edit-separator {
+    height: 1px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+    margin-left: 6px;
+    background-color: var(--unity-colors-default-border);
+    flex-grow: 1;
+}
+
+.annotation-edit-comment {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0;
+    white-space: normal;
+    min-height: 18px;
+}
+
+.temp-unlock-button {
+    background-image: url("project://database/Packages/io.continis.blackbox/UI/Images/LockedIcon.png?fileID=2800000&guid=9fe382df431cc4716b8f9fe1990c6922&type=3#LockedIcon");
+}
+
+.temp-unlock-button__toggled {
+    background-image: url("project://database/Packages/io.continis.blackbox/UI/Images/TempUnlockIcon.png?fileID=2800000&guid=2ae8c9e749a65487da4b935f939e8987&type=3#TempUnlockIcon");
+    -unity-background-image-tint-color: rgb(66, 115, 214);
+}
+
+.temp-unlock-button__unlocked {
+    background-image: url("project://database/Packages/io.continis.blackbox/UI/Images/UnlockedIcon.png?fileID=2800000&guid=15381ffcb935c453791a4cc26408916e&type=3#UnlockedIcon");
+}
+
+.temp-unlock-button__locked {
+    background-image: url("project://database/Packages/io.continis.blackbox/UI/Images/LockedIcon.png?fileID=2800000&guid=9fe382df431cc4716b8f9fe1990c6922&type=3#LockedIcon");
+}
+
+#OverridesButton {
+    background-image: url("project://database/Packages/io.continis.blackbox/UI/Images/Overrides.png?fileID=2800000&guid=31ec31c876f4c4dfd81a6e2b78455e72&type=3#Overrides");
+}
+
+#OverridesBackButton {
+    background-image: url("project://database/Packages/io.continis.blackbox/UI/Images/Overrides.png?fileID=2800000&guid=31ec31c876f4c4dfd81a6e2b78455e72&type=3#Overrides");
+    margin-top: 1px;
+    background-color: var(--unity-colors-button-background-pressed);
+}
+
+#OverrideHeader {
+    flex-direction: row;
+}
+
+#ExperimentalMessage {
+    flex-grow: 1;
+    height: 24px;
+    margin-top: -1px;
+}

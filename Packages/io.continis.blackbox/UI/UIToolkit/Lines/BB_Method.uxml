@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Packages/io.continis.blackbox/UI/UIToolkit/BB_Styles.uss?fileID=7433441132597879392&amp;guid=d44be3474fc224dd28581e25055240cf&amp;type=3#BB_Styles"/>
+    <ui:VisualElement name="RevealedMethod" class="PropertyLine" style="flex-direction: row; flex-wrap: wrap;">
+        <ui:Button text="+" parse-escape-sequences="false" display-tooltip-when-elided="true" enable-rich-text="false" name="AddRemoveButton" tooltip="Click to reveal method on the BlackBox as a button." class="AddRemoveBtn"/>
+        <ui:Label tabindex="-1" text="M" parse-escape-sequences="true" display-tooltip-when-elided="true" name="TypeLabel" tooltip="This is a method." class="TypeLabel"/>
+        <ui:TextField picking-mode="Ignore" value="MethodName" name="RevealedName" tooltip="The name visualised on the button that can be used to invoke this method." class="RevealedAsField"/>
+        <ui:VisualElement style="flex-direction: row; flex-basis: 55%;">
+            <ui:Label parse-escape-sequences="true" display-tooltip-when-elided="true" name="MethodLabel" text="Method " enabled="false" style="margin-top: 2px; margin-right: 0; margin-bottom: 0; margin-left: 4px; height: 18px; -unity-text-align: middle-left;"/>
+            <ui:Label parse-escape-sequences="true" display-tooltip-when-elided="true" name="MethodName" text="MethodName()" enabled="false"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

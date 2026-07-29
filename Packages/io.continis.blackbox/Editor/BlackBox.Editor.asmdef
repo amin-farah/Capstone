@@ -1,0 +1,31 @@
+{
+    "name": "BlackBox.Editor",
+    "rootNamespace": "BlackBox",
+    "references": [
+        "GUID:dc5cf5130f6c74728b21650c171432b9",
+        "GUID:49818357e697641afb75d2f8acaf1861",
+        "GUID:8e772f4306da84567925b3b9a0005786"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "io.continis.hats",
+            "expression": "0.0.1",
+            "define": "HATS"
+        },
+        {
+            "name": "io.continis.hats",
+            "expression": "2.0.0",
+            "define": "HATS_2"
+        }
+    ],
+    "noEngineReferences": false
+}

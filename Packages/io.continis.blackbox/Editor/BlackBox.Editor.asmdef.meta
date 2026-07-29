@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 660c4d7f6c0d148af9834aab9d69f143
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389198
+  packageName: BlackBox 2 - Redefined Prefab Workflow
+  packageVersion: 2.0.2
+  assetPath: Packages/io.continis.blackbox/Editor/BlackBox.Editor.asmdef
+  uploadId: 960314

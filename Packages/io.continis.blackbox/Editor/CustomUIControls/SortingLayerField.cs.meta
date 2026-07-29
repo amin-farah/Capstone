@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4f2026a32fac47b1b288ad7f489ff34c
+timeCreated: 1762809365
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389198
+  packageName: BlackBox 2 - Redefined Prefab Workflow
+  packageVersion: 2.0.2
+  assetPath: Packages/io.continis.blackbox/Editor/CustomUIControls/SortingLayerField.cs
+  uploadId: 960314

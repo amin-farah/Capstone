@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: bd6b409b66394dcb89f2321639fdd356
+timeCreated: 1781559081
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389198
+  packageName: BlackBox 2 - Redefined Prefab Workflow
+  packageVersion: 2.0.2
+  assetPath: Packages/io.continis.blackbox/Editor/WindowsAndMenus/OdinRevealContextMenu.cs
+  uploadId: 960314

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 98bc34ddef060be4ea47e99161e9df8f
+timeCreated: 1547090495
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137126
+  packageName: POLYGON - Prototype Pack - Art by Synty
+  packageVersion: 1.9.1
+  assetPath: Assets/Synty/PolygonPrototype/Materials/Misc/PolygonPrototype_Vehicle_01.mat
+  uploadId: 924218

@@ -1,0 +1,20 @@
+{
+    "name": "BlackBox.Runtime",
+    "rootNamespace": "BlackBox",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "io.continis.hats",
+            "expression": "0.0.1",
+            "define": "HATS"
+        }
+    ],
+    "noEngineReferences": false
+}

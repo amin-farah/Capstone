@@ -1,0 +1,24 @@
+{
+  "name": "io.continis.blackbox",
+  "version": "2.0.2",
+  "displayName": "BlackBox",
+  "description": "A blackboxing and encapsulation framework for Prefabs.\n\nBlackBox's main feature is the ability to \"lock\" Prefabs. A locked Prefab will appear to the user as if it was a single GameObject, with no additional components. In addition to this, properties of the Prefab's child objects can be surfaced to the BlackBox Inspector, for easy access and to be able to override them in the scene.",
+  "keywords": [
+    "prefab",
+    "box",
+    "black",
+    "encapsulation"
+  ],
+  "author": {
+    "name": "Ciro Continisio",
+    "url": "https://tools.continis.io/",
+    "email": "buoybase@gmail.com"
+  },
+  "unity": "2022.3",
+  "type": "tool",
+  "dependencies": {
+    "com.unity.settings-manager": "2.0.1"
+  },
+  "documentationUrl": "https://tools.continis.io/v/black-box/",
+  "changelogUrl": "https://tools.continis.io/v/black-box/changelog"
+}

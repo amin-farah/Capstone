@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Packages/io.continis.blackbox/UI/UIToolkit/WelcomeScreen.uss?fileID=7433441132597879392&amp;guid=28ecaa6b6c9c2449a8da68aba4909910&amp;type=3#WelcomeScreen"/>
+    <ui:VisualElement name="WelcomeScreen" style="flex-grow: 1;">
+        <ui:VisualElement name="Header">
+            <ui:VisualElement name="Logo" />
+        </ui:VisualElement>
+        <ui:VisualElement name="MainBody" style="flex-grow: 1;">
+            <ui:VisualElement name="Spacer" />
+            <ui:Label tabindex="-1" text="Welcome to BlackBox!" parse-escape-sequences="true" display-tooltip-when-elided="true" class="Message" style="white-space: normal;" />
+            <ui:Label tabindex="-1" text="If you&apos;re new, take a moment to read the documentation and find out about its 3 main features: Locking, Revealing, and Disable Apply." parse-escape-sequences="true" display-tooltip-when-elided="true" class="Message" style="white-space: normal;" />
+            <ui:Button text="Open documentation" parse-escape-sequences="true" display-tooltip-when-elided="true" name="DocsBtn" class="BigButton" />
+            <ui:VisualElement name="Spacer" style="flex-grow: 1;" />
+            <ui:Button text="Email support" parse-escape-sequences="true" display-tooltip-when-elided="true" name="EmailBtn" class="MediumButton" />
+            <ui:Button text="Join Discord" parse-escape-sequences="true" display-tooltip-when-elided="true" name="DiscordBtn" class="MediumButton" />
+            <ui:Button text="Explore other tools" display-tooltip-when-elided="true" name="OtherToolsBtn" class="MediumButton" />
+            <ui:Button text="Write a review" display-tooltip-when-elided="true" name="ReviewBtn" class="MediumButton" />
+            <ui:Label tabindex="-1" text="Note: You can always access this window again from the &lt;b&gt;Tools &gt; Codecks Scene Notes &gt; Welcome screen&lt;/b&gt; menu." parse-escape-sequences="true" display-tooltip-when-elided="true" class="Message" style="white-space: normal; display: none;" />
+            <ui:VisualElement name="Spacer" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,56 @@
+#MainBody {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.BigButton {
+    height: 40px;
+    margin-top: 1px;
+    margin-bottom: 3px;
+}
+
+.MediumButton {
+    height: 24px;
+    margin-top: 1px;
+    margin-bottom: 3px;
+}
+
+.Message {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+#Spacer {
+    height: 10px;
+}
+
+#Header {
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+    min-height: 80px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    max-height: 120px;
+    -unity-background-scale-mode: scale-and-crop;
+    background-color: rgb(214, 222, 225);
+    margin-bottom: 0;
+    margin-top: 10px;
+    -unity-font-style: bold;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#Logo {
+    background-image: url("project://database/Packages/io.continis.blackbox/UI/Images/BannerLogo.png?fileID=2800000&guid=f53c5fcef746c40c5bcd6309498e25b7&type=3#BannerLogo");
+    -unity-background-scale-mode: scale-to-fit;
+    flex-grow: 1;
+    flex-shrink: 1;
+}

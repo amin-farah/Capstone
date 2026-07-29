@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4bf6aee6181b4b8f84ab92c3d19e09a2
+timeCreated: 1723385549
+AssetOrigin:
+  serializedVersion: 1
+  productId: 389198
+  packageName: BlackBox 2 - Redefined Prefab Workflow
+  packageVersion: 2.0.2
+  assetPath: Packages/io.continis.blackbox/Editor/WindowsAndMenus/ComponentContextMenus.cs
+  uploadId: 960314

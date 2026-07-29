@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Packages/io.continis.blackbox/UI/UIToolkit/BB_Styles.uss?fileID=7433441132597879392&amp;guid=d44be3474fc224dd28581e25055240cf&amp;type=3#BB_Styles"/>
+    <ui:VisualElement name="RevealedProperty" class="PropertyLine" style="flex-direction: row; flex-wrap: wrap;">
+        <ui:Button text="+" parse-escape-sequences="false" display-tooltip-when-elided="true" enable-rich-text="false" name="AddRemoveButton" tooltip="Click to reveal this property." class="AddRemoveBtn"/>
+        <ui:Label tabindex="-1" text="P" parse-escape-sequences="true" display-tooltip-when-elided="true" name="TypeLabel" tooltip="This is a property." class="TypeLabel"/>
+        <ui:TextField picking-mode="Ignore" value="PropertyName" name="RevealedName" tooltip="Name used to reveal the property. This doesn&#39;t change the name of the original property." class="RevealedAsField"/>
+        <uie:PropertyField name="ActualProp"/>
+    </ui:VisualElement>
+</ui:UXML>
