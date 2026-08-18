@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b00f6bcba60ab784f8fa1d5e3cf046d2
+timeCreated: 1621221899
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Chicken_Breast_Raw_01.prefab
+  uploadId: 924172

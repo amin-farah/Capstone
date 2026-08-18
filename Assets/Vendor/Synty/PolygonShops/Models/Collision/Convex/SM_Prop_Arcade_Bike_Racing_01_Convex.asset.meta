@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 22928e81c8e02f74fb6b730e9b71f9ed
+timeCreated: 1625189630
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43639893299190754
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Arcade_Bike_Racing_01_Convex.asset
+  uploadId: 924172

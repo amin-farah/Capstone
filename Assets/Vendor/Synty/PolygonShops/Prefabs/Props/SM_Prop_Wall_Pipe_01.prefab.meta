@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d8323a5b2d33b164689f8d3524889e2c
+timeCreated: 1623734543
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Wall_Pipe_01.prefab
+  uploadId: 924172

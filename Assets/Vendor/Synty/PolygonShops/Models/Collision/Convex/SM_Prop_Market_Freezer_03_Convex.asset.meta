@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a6a96534fe7d9284fa8a1dae6f07f24b
+timeCreated: 1625190827
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43825148203230308
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Market_Freezer_03_Convex.asset
+  uploadId: 924172

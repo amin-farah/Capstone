@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b286a24429d05364fb650c138725c798
+timeCreated: 1625190350
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43869378307989010
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Lighting_Cable_Bulb_01_Convex.asset
+  uploadId: 924172

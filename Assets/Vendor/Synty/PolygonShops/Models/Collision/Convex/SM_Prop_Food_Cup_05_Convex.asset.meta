@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c440c6b1ec00cf746a66b1af05e1fca2
+timeCreated: 1625187591
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43473196647517768
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Cup_05_Convex.asset
+  uploadId: 924172

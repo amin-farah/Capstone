@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 49b450e4d37c2ca4ba519d5482e04b4a
+timeCreated: 1625190916
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43050151859505612
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Market_Checkout_Light_01_Convex.asset
+  uploadId: 924172

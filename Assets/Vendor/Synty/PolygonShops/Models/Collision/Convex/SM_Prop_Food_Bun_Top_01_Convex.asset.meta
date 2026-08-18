@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 49adc5f73e9d79f48b35acef6bc8e092
+timeCreated: 1625187666
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43617167361525604
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Bun_Top_01_Convex.asset
+  uploadId: 924172

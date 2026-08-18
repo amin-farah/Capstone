@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8d7ead78bf782e048a1738687b56e76f
+timeCreated: 1625192699
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43453794469079650
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Toilet_Stall_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 364bbbdab1966cd49b8104771847f06b
+timeCreated: 1625190073
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43288675005878366
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_Laptop_04_Convex.asset
+  uploadId: 924172

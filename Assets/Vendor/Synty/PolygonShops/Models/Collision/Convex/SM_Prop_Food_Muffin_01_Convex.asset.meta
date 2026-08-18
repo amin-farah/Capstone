@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e779ef527b65e694ea89ed11262fb6be
+timeCreated: 1625187691
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43478134698468720
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Muffin_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c5e0e97ef4ed02b429484ce13b5ddcb7
+timeCreated: 1625187623
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43223414981249668
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Fish_Fillet_01_Convex.asset
+  uploadId: 924172

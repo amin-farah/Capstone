@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 26e26270e384ad748b71e494cc897a6a
+timeCreated: 1623296379
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Xmas_Present_03.prefab
+  uploadId: 924172

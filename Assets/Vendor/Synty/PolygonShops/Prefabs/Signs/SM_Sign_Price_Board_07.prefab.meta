@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2c81b632a8ed26c48809195e66859fb9
+timeCreated: 1622604638
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Price_Board_07.prefab
+  uploadId: 924172

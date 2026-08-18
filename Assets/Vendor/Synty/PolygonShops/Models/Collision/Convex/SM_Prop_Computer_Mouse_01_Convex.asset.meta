@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a273db93bc2703c45895c8f4f2674d13
+timeCreated: 1625190085
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43961237071361082
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_Mouse_01_Convex.asset
+  uploadId: 924172

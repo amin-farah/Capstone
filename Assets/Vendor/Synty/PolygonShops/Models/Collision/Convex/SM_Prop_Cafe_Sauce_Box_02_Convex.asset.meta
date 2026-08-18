@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: de35368774014374591a9c8baa012d29
+timeCreated: 1625190024
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43967324190008964
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Sauce_Box_02_Convex.asset
+  uploadId: 924172

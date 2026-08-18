@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4ed3ac74c4a4e5c4ca7ad07ad38b2819
+timeCreated: 1625187526
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43894008044085228
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Pie_Meat_02_Convex.asset
+  uploadId: 924172

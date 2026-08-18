@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 31debdccd6890d34c8db92a39f5a982e
+timeCreated: 1625190459
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43089211197123462
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Hunting_Shelf_01_Convex.asset
+  uploadId: 924172

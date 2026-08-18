@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c9c37aec3dd3c094caa881a09626e6ea
+timeCreated: 1625192708
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43279284716293186
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Rubbish_Bin_03_Convex.asset
+  uploadId: 924172

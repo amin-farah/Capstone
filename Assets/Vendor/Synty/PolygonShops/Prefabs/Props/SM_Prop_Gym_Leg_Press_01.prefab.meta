@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d5df8b456f55b5442b8177e082b8e51f
+timeCreated: 1620876654
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Gym_Leg_Press_01.prefab
+  uploadId: 924172

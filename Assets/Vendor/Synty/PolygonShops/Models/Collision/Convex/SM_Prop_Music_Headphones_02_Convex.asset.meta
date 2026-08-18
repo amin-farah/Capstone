@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3d2b81968a100c544b6c1448b1616b79
+timeCreated: 1625192874
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43919553206244586
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Music_Headphones_02_Convex.asset
+  uploadId: 924172

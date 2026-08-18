@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1c6e83c7145b4854b9c63a7cff3f2006
+timeCreated: 1625190074
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43280776115035712
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_Monitor_02_Convex.asset
+  uploadId: 924172

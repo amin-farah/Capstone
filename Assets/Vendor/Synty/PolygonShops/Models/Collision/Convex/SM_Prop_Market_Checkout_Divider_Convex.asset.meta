@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b3a9edb2dd63f434c84ac9098da0585d
+timeCreated: 1625190880
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43150727292733394
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Market_Checkout_Divider_Convex.asset
+  uploadId: 924172

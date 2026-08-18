@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9b0e7e56f1b3935449140c7d1a6f389f
+timeCreated: 1625030984
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Arcade_Screen_Colour_02.prefab
+  uploadId: 924172

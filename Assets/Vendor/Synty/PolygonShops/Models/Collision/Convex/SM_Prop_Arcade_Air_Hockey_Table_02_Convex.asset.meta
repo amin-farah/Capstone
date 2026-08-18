@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 455b10cc734e6df4a897408998b3c70f
+timeCreated: 1625189632
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43569206383831150
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Arcade_Air_Hockey_Table_02_Convex.asset
+  uploadId: 924172

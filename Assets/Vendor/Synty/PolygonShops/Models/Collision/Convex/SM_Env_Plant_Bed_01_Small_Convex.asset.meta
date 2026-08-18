@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1c3327761314df945a225a28732138fc
+timeCreated: 1625441598
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43440426014592108
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Env_Plant_Bed_01_Small_Convex.asset
+  uploadId: 924172

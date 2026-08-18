@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a2781f166d558fc4688358ad1db4df11
+timeCreated: 1623985181
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Characters/SM_Chr_Clerk_Male_01.prefab
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2abaf95c89acc5d4b85964c107eb4bd1
+timeCreated: 1625192623
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43346911060355296
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Wep_Shotgun_Semi_01_Convex.asset
+  uploadId: 924172

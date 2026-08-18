@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 83ecd81e9194eae4c86887d371f181d6
+timeCreated: 1625187523
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43252833995359176
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Ribs_Large_Cooked_01_Convex.asset
+  uploadId: 924172

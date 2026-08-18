@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8282d996d2dd2fc458fe0148aed87b06
+timeCreated: 1625190171
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43144150475380688
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Clothes_Pants_Set_02_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7b60caef7f8dd7543a61d48bda18f7db
+timeCreated: 1625187520
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43192484116107244
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Cheese_Grated_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8d670b022213ac247a5bb9d50528ac4c
+timeCreated: 1625192662
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43705902597714770
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Planter_Box_01_Convex.asset
+  uploadId: 924172

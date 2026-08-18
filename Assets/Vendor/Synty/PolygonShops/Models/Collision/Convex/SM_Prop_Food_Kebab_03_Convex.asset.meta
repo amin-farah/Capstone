@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a74e7a26a1620794ab61a052c34c9819
+timeCreated: 1625187497
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43019059817824112
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Kebab_03_Convex.asset
+  uploadId: 924172

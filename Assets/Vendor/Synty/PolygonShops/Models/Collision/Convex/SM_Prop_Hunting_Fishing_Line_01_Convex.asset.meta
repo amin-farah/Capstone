@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e3dcf7d7eaa04994f85e0424bbe71596
+timeCreated: 1625190297
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43769326628358344
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Hunting_Fishing_Line_01_Convex.asset
+  uploadId: 924172

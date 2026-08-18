@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e6a8b6860bbe64448e641fb1ab62a0c
+timeCreated: 1620874489
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Music_Guitar_Stand_01.prefab
+  uploadId: 924172

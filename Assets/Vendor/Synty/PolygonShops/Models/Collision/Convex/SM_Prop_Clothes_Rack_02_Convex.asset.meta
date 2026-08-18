@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 59744efa0f3c332438505b7e8a0ef46d
+timeCreated: 1625190131
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43845210994431264
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Clothes_Rack_02_Convex.asset
+  uploadId: 924172

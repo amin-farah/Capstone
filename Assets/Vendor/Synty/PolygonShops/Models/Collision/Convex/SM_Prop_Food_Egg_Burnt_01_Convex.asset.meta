@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cabfcbc495124df40b7136245141ee79
+timeCreated: 1625187580
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43895489859931886
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Egg_Burnt_01_Convex.asset
+  uploadId: 924172

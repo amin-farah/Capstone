@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6f3c77db25f549740b688a963d7e08b6
+timeCreated: 1625190899
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43547905408048144
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Market_Aisle_Preset_01_Convex.asset
+  uploadId: 924172

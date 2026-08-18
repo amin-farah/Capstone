@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 471d09a34e016b24ca7ea40632c9ada2
+timeCreated: 1625190648
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43943521567701970
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Lighting_Spotlight_05_Convex.asset
+  uploadId: 924172

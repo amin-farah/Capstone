@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 51f654651356c4246b7aa0da65384012
+timeCreated: 1625189522
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43845448243270358
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Arcade_Air_Hockey_Puck_01_Convex.asset
+  uploadId: 924172

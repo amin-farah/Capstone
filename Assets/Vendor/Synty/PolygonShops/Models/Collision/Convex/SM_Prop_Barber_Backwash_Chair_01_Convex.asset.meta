@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a0756a352c2c2bc46ac572db1d2ff93e
+timeCreated: 1625189622
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43239552842058246
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Barber_Backwash_Chair_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 65a461fd4520e0c4591e0ee2d0a18c23
+timeCreated: 1625192716
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43733656112038832
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Wall_Vent_01_Convex.asset
+  uploadId: 924172

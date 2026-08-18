@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aa57d94eee97cf74e94e8c12f801a612
+timeCreated: 1621981682
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Weapons/SM_Wep_Hunting_Knife_03.prefab
+  uploadId: 924172

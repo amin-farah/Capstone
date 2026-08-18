@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 34c5ad438a0348446a5e1f8455dc23bf
+timeCreated: 1625190098
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43112349574044396
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_Camera_DSLR_02_Convex.asset
+  uploadId: 924172

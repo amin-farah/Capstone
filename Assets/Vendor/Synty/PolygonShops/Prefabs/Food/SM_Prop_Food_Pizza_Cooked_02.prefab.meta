@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fcadf4e3320d78e4c85d95bc9a8d3715
+timeCreated: 1621221932
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Pizza_Cooked_02.prefab
+  uploadId: 924172

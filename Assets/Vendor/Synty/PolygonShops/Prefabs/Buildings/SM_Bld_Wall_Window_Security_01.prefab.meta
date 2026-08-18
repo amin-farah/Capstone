@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 11d117fb5373c46499a5c7fbc0be8fa7
+timeCreated: 1621981216
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Buildings/SM_Bld_Wall_Window_Security_01.prefab
+  uploadId: 924172

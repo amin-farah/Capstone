@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b7c179f9351cc2945ae35c5dc963b036
+timeCreated: 1625190472
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43562265337168490
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Kitchen_ServingShelf_01_Convex.asset
+  uploadId: 924172

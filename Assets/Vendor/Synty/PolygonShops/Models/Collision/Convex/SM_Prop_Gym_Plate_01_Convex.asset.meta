@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b79b3f09882911641b72a6cfe92dfd24
+timeCreated: 1625190421
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43236041235334850
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gym_Plate_01_Convex.asset
+  uploadId: 924172

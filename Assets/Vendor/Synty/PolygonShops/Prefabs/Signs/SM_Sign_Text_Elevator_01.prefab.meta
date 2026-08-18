@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b57883304e82904580010c5bd013eed
+timeCreated: 1622499389
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Text_Elevator_01.prefab
+  uploadId: 924172

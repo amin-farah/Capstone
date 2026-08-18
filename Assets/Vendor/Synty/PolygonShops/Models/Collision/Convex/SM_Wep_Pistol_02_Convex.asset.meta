@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 573ec5d93c0fb5b45879660475c97bf0
+timeCreated: 1625192838
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43049336385746570
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Wep_Pistol_02_Convex.asset
+  uploadId: 924172

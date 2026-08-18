@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b62b618b5b9d02f448b805cfb2da92d1
+timeCreated: 1625190020
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43052539431891954
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Tip_Jar_01_Convex.asset
+  uploadId: 924172

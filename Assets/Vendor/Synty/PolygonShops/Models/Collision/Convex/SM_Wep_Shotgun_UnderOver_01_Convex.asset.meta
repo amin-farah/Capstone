@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5f50659f696928f468bb3256853a0b3b
+timeCreated: 1625192681
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43515576478167104
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Wep_Shotgun_UnderOver_01_Convex.asset
+  uploadId: 924172

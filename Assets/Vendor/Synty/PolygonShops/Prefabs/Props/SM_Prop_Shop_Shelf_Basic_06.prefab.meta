@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 32e00dff3f0c0124a84bfdf3a641d9b3
+timeCreated: 1620874500
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Shop_Shelf_Basic_06.prefab
+  uploadId: 924172

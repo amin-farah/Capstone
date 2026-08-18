@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bb3f090eb45423644a2598ea16dbb433
+timeCreated: 1622500765
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Warehouse_Cardboard_Box_04.prefab
+  uploadId: 924172

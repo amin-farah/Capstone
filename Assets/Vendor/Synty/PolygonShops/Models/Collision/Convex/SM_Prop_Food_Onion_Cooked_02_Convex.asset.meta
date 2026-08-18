@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d867f941ac9378c44a54fe10f3d3fbd5
+timeCreated: 1625187675
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43859717434043942
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Onion_Cooked_02_Convex.asset
+  uploadId: 924172

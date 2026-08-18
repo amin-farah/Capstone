@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e6a59d8a44789eb4cb6598b662b79e76
+timeCreated: 1625187622
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43485432579096792
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Chicken_Wing_Cooked_01_Convex.asset
+  uploadId: 924172

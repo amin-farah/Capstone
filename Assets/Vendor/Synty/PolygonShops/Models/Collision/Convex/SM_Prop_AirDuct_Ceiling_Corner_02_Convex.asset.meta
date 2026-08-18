@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d0817e3867523554ebd5c1e9a7ebafe6
+timeCreated: 1625189563
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43450311556075274
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_AirDuct_Ceiling_Corner_02_Convex.asset
+  uploadId: 924172

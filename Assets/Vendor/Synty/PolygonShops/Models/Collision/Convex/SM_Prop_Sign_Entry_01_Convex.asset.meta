@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 810affd04d9fd014198f16b040482da2
+timeCreated: 1625192696
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43035980203421338
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sign_Entry_01_Convex.asset
+  uploadId: 924172

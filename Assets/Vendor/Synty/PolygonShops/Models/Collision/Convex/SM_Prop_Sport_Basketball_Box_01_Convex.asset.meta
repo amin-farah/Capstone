@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b73aa9da393eeae4497aeb5b913543b0
+timeCreated: 1625192873
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43419246959293632
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_Basketball_Box_01_Convex.asset
+  uploadId: 924172

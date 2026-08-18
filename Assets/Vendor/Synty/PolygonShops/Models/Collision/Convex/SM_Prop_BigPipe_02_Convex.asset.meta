@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e68d64a577e904a42a82cad56207911e
+timeCreated: 1625189553
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43560174122016040
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_BigPipe_02_Convex.asset
+  uploadId: 924172

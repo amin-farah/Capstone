@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a4df0a398751a647aad76b5e2aed128
+timeCreated: 1625187482
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43426384319032232
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Sandwich_Half_01_Convex.asset
+  uploadId: 924172

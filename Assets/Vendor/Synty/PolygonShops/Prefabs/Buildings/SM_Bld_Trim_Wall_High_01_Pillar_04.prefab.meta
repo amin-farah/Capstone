@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 25e0ba9ba9dec8d4f82a9b0a4750950c
+timeCreated: 1620597624
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Buildings/SM_Bld_Trim_Wall_High_01_Pillar_04.prefab
+  uploadId: 924172

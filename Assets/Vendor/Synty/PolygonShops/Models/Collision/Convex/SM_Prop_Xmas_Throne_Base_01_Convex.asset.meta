@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ddbef9b514383ae4fb8ab52444daf24e
+timeCreated: 1625192563
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43793804773623106
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Xmas_Throne_Base_01_Convex.asset
+  uploadId: 924172

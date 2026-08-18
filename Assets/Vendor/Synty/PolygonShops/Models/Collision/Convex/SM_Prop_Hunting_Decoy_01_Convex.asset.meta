@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4ccb3abab06b6284186ca1730d163606
+timeCreated: 1625190466
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43659246938796538
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Hunting_Decoy_01_Convex.asset
+  uploadId: 924172

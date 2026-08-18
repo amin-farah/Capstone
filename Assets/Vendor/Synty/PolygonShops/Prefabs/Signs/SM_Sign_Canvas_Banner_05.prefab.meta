@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 221fb23c2822e8142aea854bba8fe29f
+timeCreated: 1622604628
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Canvas_Banner_05.prefab
+  uploadId: 924172

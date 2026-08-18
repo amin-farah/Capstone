@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 88c6d89e9f02ab84a9bd52436a102ae6
+timeCreated: 1625187689
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43168739278950710
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Meat_Patty_Raw_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a6b6e819aeab8994e813d97353c0acb3
+timeCreated: 1625190299
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43321190730007698
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Ground_Trim_Thin_01_Convex.asset
+  uploadId: 924172

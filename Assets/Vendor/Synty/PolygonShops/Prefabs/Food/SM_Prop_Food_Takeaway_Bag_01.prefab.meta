@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8779ec2e7fbe9f1468c9456eb0bc52eb
+timeCreated: 1621221954
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Takeaway_Bag_01.prefab
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bb4b0ce9139d9cf49b3b327bd971e9f1
+timeCreated: 1620874543
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Clothes_Bench_Small_01.prefab
+  uploadId: 924172

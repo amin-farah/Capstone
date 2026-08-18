@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 337b58b3e9447b240b9db4684df7d00f
+timeCreated: 1625187700
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43039545030184152
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Sausage_Burnt_01_Convex.asset
+  uploadId: 924172

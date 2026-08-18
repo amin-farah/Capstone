@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fb7e8e1abeeafa94bb665df59ddbb305
+timeCreated: 1625187648
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43427861832433650
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Saucer_03_Convex.asset
+  uploadId: 924172

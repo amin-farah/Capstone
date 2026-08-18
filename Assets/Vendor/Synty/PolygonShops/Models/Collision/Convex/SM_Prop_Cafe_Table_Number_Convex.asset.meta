@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ed289a70c9b0d9a47b05efa60a3c1393
+timeCreated: 1625189969
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43600575414314850
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Table_Number_Convex.asset
+  uploadId: 924172

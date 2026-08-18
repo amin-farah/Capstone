@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e94b0983bb3d80946956239d864742d1
+timeCreated: 1625190360
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43975375854443616
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gym_Swiss_Ball_01_Convex.asset
+  uploadId: 924172

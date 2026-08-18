@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ae6e7d37019a49a48b4fb967739b8f3e
+timeCreated: 1625188334
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43139483335521716
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Wep_Hunting_Hatchet_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 98c0089702faaef4d85502bb987fa61e
+timeCreated: 1625192649
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43911842613258120
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Money_Coin_01_Convex.asset
+  uploadId: 924172

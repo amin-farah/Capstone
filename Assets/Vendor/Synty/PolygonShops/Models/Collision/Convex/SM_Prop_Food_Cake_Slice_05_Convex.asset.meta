@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 18ae256327c2366488e65cc806bb9705
+timeCreated: 1625187659
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43816806719409340
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Cake_Slice_05_Convex.asset
+  uploadId: 924172

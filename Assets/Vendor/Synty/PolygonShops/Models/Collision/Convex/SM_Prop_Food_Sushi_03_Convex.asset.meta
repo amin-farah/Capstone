@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3959df833bf240d44a87b12493e33ec7
+timeCreated: 1625187711
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43690679109814256
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Sushi_03_Convex.asset
+  uploadId: 924172

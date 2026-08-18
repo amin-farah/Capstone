@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ede781919b144324fb8df6f8f7c4284f
+timeCreated: 1622413218
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Arcade_Air_Hockey_Puck_01.prefab
+  uploadId: 924172

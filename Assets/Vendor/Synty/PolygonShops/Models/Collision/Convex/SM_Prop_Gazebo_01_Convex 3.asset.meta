@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 894f7d53888c254448b396ee483a8f99
+timeCreated: 1625193237
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43188421250799970
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gazebo_01_Convex
+    3.asset
+  uploadId: 924172

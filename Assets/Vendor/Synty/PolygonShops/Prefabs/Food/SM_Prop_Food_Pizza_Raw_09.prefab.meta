@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f08b7c8bc7bf8384fb2626968065e5c1
+timeCreated: 1621221938
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Pizza_Raw_09.prefab
+  uploadId: 924172

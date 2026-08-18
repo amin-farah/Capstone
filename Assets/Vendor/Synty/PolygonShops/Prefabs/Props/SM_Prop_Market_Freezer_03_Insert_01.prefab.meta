@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3960ee81e89a166468276b1d322673eb
+timeCreated: 1621465701
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Market_Freezer_03_Insert_01.prefab
+  uploadId: 924172

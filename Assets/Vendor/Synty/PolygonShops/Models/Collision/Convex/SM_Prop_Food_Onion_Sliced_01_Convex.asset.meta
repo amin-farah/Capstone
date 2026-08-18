@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0f097fe6bf1c1b04a8d52368ee535eee
+timeCreated: 1625187699
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43738306479180944
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Onion_Sliced_01_Convex.asset
+  uploadId: 924172

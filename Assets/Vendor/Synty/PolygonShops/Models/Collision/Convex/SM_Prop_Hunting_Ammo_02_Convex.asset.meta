@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 40303414cd3ab9341822cd430dd2f9b9
+timeCreated: 1625190268
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43048827510468890
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Hunting_Ammo_02_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3110468fce44f46498f111957b2199e2
+timeCreated: 1622604623
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Hanger_03.prefab
+  uploadId: 924172

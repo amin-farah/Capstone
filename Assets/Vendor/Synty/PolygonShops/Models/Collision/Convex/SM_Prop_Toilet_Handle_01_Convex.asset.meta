@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 237f3d5d9b1d1af4a9a518d278327276
+timeCreated: 1625192666
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43846953889082004
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Toilet_Handle_01_Convex.asset
+  uploadId: 924172

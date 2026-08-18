@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 80824dbf78075c549a1404a4d4be221c
+timeCreated: 1625190319
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43320416989454764
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Hunting_Fishing_Rod_Reel_01_Convex.asset
+  uploadId: 924172

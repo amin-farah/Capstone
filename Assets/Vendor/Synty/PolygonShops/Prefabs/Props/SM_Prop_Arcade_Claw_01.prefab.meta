@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad16dfe471420304aba2aeebc39034ad
+timeCreated: 1622431292
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Arcade_Claw_01.prefab
+  uploadId: 924172

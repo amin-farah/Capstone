@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 669f13134f8e72940be90e7d5a7c0906
+timeCreated: 1625192731
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43328009620916368
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_Snowboard_01_Convex.asset
+  uploadId: 924172

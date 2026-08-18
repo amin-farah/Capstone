@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cd97afaf56ce41a49a3b64770d83725b
+timeCreated: 1625187486
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43292941818013358
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Fruit_Pastry_01_Convex.asset
+  uploadId: 924172

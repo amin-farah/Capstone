@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7b6f54673c05c824ea7d92a93dfc8fd9
+timeCreated: 1625192683
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43577994855622700
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Music_Amplifier_01_Convex.asset
+  uploadId: 924172

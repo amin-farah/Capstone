@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f95881d8d5b9a8843887faf62604a71e
+timeCreated: 1625190396
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43786432373400534
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Kitchen_Fries_Station_01_Convex.asset
+  uploadId: 924172

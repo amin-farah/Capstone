@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 64bb2734a62974b45ae4c97e55157187
+timeCreated: 1622006650
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Blender_01.prefab
+  uploadId: 924172

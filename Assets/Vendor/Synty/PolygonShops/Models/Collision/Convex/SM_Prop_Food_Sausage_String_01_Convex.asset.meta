@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 255e2dc2bf7cf9042b4992760fd3eccf
+timeCreated: 1625187549
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43865578399918570
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Sausage_String_01_Convex.asset
+  uploadId: 924172

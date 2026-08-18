@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b9d2399af01e9be4cb1fbb1f6783a71a
+timeCreated: 1625190174
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43513037070862586
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Clothes_Jacket_06_Convex.asset
+  uploadId: 924172

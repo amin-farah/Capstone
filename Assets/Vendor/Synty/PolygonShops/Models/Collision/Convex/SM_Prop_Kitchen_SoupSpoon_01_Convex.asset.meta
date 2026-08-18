@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4d1a6963cdcadf943b513ef60d7ed90b
+timeCreated: 1625190280
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43422599921096418
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Kitchen_SoupSpoon_01_Convex.asset
+  uploadId: 924172

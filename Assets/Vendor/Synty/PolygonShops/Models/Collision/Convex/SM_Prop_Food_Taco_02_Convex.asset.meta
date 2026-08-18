@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da8f6737f8e37d444abceaf9ff454cf4
+timeCreated: 1625187616
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43448456529871444
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Taco_02_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 54bf587f4ee14724db150fcf100e406f
+timeCreated: 1625189624
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43010949397572766
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Ad_Screen_01_Convex.asset
+  uploadId: 924172

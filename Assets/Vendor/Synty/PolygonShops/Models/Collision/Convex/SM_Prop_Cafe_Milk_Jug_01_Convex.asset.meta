@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 49fbe5dc54b96714e872e998458447e1
+timeCreated: 1625189973
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43553822785822600
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Milk_Jug_01_Convex.asset
+  uploadId: 924172

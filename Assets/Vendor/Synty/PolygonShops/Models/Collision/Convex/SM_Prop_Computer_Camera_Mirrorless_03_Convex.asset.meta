@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 18c52dceaadf9cb46b24396bc43a5f0c
+timeCreated: 1625190140
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43062842924795084
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_Camera_Mirrorless_03_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e6a61678cacd25c4b8351b104ca2fd82
+timeCreated: 1625189942
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43846393520397556
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Clothes_Briefcase_01_Convex.asset
+  uploadId: 924172

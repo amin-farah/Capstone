@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dcc47e4892f3c3042878277989c1efaa
+timeCreated: 1625190309
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43278948177714634
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gym_Leg_Press_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1afd1e8716ffd2c49a29a20a20efad84
+timeCreated: 1621985638
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Clothes_Hunting_Jacket_Set_01.prefab
+  uploadId: 924172

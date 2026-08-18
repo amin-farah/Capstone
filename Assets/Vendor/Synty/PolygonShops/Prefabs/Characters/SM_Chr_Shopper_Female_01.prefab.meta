@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3743746611f3b1b4fa60ff14e6a5ed0d
+timeCreated: 1623985182
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Characters/SM_Chr_Shopper_Female_01.prefab
+  uploadId: 924172

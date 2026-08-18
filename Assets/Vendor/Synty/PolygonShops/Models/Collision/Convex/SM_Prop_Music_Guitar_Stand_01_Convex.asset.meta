@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 63b78fc3207a2f04e95a9f47e5dd9b80
+timeCreated: 1625192728
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43532138036727356
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Music_Guitar_Stand_01_Convex.asset
+  uploadId: 924172

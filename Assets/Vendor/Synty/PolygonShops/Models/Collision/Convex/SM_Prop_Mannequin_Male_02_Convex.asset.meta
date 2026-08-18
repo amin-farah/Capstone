@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b8bb7ae10bc910458587e3689efd375
+timeCreated: 1625190710
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43053199907802260
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Mannequin_Male_02_Convex.asset
+  uploadId: 924172

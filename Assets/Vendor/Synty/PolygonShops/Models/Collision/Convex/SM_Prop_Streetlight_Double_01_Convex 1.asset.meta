@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 587963f846b34914fb64123ce35c3f6f
+timeCreated: 1625193148
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43073266932107448
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Streetlight_Double_01_Convex
+    1.asset
+  uploadId: 924172

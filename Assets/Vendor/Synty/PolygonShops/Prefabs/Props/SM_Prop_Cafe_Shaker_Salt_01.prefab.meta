@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b81595a00939eb8419bd47c01af6ff88
+timeCreated: 1623884193
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Cafe_Shaker_Salt_01.prefab
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c1041c0e12fac24448a230562654a422
+timeCreated: 1625190295
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43240399497262084
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Kitchen_Counter_Food_Insert_Large_05_Convex.asset
+  uploadId: 924172

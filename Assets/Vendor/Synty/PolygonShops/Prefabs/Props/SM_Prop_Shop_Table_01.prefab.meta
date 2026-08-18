@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2a537a7da0d163a4a871b5ba2b3aba69
+timeCreated: 1620874543
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Shop_Table_01.prefab
+  uploadId: 924172

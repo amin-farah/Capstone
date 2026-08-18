@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 756a4a2eb5fbf4146a668eb3623f1919
+timeCreated: 1625189954
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43896936950276624
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Straws_Cup_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 56d625673916f6749bff88ffc7b263c6
+timeCreated: 1625187566
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43833214355150728
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Chicken_Leg_Burnt_01_Convex.asset
+  uploadId: 924172

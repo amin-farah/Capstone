@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 01b1ff57715df5c46a2eb2e95172e79d
+timeCreated: 1622498178
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Large_Hunting_01.prefab
+  uploadId: 924172

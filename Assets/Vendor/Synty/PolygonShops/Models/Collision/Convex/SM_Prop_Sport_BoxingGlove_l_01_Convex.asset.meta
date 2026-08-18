@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 640801df337a7c546b43b6c63591e8d5
+timeCreated: 1625192707
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43654194234882302
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_BoxingGlove_l_01_Convex.asset
+  uploadId: 924172

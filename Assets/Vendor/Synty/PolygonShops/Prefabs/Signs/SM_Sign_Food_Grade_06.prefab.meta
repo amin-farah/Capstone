@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 752607d42cbbd6542bbbc25a60d5747b
+timeCreated: 1622604635
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Food_Grade_06.prefab
+  uploadId: 924172

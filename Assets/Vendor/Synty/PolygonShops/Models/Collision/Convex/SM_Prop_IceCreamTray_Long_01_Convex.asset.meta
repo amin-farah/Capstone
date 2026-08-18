@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0b7d51aa37a46d848a5aa926246d7991
+timeCreated: 1625190422
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43013673662747816
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_IceCreamTray_Long_01_Convex.asset
+  uploadId: 924172

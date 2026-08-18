@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6ec05c596b347a040a782ade1122b52f
+timeCreated: 1625190032
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43342982764622754
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Parasol_02_Convex.asset
+  uploadId: 924172

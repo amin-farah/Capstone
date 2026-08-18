@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0e04cccf5500ff24e9dba47fccc2901e
+timeCreated: 1625189613
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43778878457213896
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Barber_Shelf_01_Convex.asset
+  uploadId: 924172

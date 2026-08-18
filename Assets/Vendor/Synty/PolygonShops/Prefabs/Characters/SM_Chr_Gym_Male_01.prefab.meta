@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 60d44913929ae6242a330d95a39a5d22
+timeCreated: 1623985182
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Characters/SM_Chr_Gym_Male_01.prefab
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d3550d4726b78f64f85f2213b6c54fa0
+timeCreated: 1625192632
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43092691415968984
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Shoe_Box_Open_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b3dec49082a913d4e98848a9d77c31a8
+timeCreated: 1625190097
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43599754105300424
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Clothes_Folded_Shirt_05_Convex.asset
+  uploadId: 924172

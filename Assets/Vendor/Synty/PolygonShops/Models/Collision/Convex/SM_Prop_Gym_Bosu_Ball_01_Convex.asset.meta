@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a1faf2ed0ca3bc741aa2fc06425ba53f
+timeCreated: 1625190247
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43853008730130482
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gym_Bosu_Ball_01_Convex.asset
+  uploadId: 924172

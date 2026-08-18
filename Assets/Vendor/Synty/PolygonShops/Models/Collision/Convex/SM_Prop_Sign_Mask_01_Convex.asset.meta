@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9c8b934cf631d9b43b57ae68ca1bb12c
+timeCreated: 1625192737
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43934653384213952
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sign_Mask_01_Convex.asset
+  uploadId: 924172

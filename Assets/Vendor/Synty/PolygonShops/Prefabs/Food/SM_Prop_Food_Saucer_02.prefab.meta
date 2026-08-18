@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cfceaa4e45dc16247a5a5c46d3d294a8
+timeCreated: 1623903187
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Saucer_02.prefab
+  uploadId: 924172

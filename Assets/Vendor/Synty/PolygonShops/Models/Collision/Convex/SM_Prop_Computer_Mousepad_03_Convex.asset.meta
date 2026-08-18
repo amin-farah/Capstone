@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 66be140d730cde9469e5421c6758f3ba
+timeCreated: 1625190135
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43228478204722724
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_Mousepad_03_Convex.asset
+  uploadId: 924172

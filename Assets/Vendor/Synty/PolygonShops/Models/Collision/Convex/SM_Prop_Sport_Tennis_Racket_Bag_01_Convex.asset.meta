@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 71825f583d21fa540bad81a36bc9ee8f
+timeCreated: 1625192821
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43318402697642946
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_Tennis_Racket_Bag_01_Convex.asset
+  uploadId: 924172

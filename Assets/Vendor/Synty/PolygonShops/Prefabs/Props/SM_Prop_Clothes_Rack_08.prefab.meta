@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bf523cc3ea021eb49b6992b4e2e838df
+timeCreated: 1620874542
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Clothes_Rack_08.prefab
+  uploadId: 924172

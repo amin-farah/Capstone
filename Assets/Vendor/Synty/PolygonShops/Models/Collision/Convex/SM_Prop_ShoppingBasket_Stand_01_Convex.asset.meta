@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a2f5e9de6a51444409f5e41193d8aba2
+timeCreated: 1625192745
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43599181661393496
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_ShoppingBasket_Stand_01_Convex.asset
+  uploadId: 924172

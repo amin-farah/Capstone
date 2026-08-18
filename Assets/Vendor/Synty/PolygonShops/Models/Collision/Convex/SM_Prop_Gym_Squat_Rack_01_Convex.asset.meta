@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b73a79724fa97df479c6a6ae98ffc4e1
+timeCreated: 1625190351
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43737134438796216
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gym_Squat_Rack_01_Convex.asset
+  uploadId: 924172

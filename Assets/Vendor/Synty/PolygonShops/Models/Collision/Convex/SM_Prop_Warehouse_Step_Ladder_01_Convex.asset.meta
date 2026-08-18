@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5b8b62a4dbd1c3049841f47fed010249
+timeCreated: 1625192848
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43014902642685666
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Warehouse_Step_Ladder_01_Convex.asset
+  uploadId: 924172

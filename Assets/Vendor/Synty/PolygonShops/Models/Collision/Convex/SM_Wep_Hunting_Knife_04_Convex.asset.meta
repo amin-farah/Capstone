@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 88be4df8221fc324494d261d019c4d35
+timeCreated: 1625188331
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43230153945599074
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Wep_Hunting_Knife_04_Convex.asset
+  uploadId: 924172

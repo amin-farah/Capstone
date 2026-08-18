@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 814b5ac6b7c6d2b45a695391b2d2ef7b
+timeCreated: 1624933217
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Kitchen_Chopping_Board_01.prefab
+  uploadId: 924172

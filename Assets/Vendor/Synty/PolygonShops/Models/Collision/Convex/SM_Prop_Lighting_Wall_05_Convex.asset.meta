@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 26bca3b2971edc04e8c0ff3ed11d0cf4
+timeCreated: 1625190719
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43571304970959064
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Lighting_Wall_05_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f77b83cd67c35654893167c2d363779d
+timeCreated: 1624318059
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Dumptser_01.prefab
+  uploadId: 924172

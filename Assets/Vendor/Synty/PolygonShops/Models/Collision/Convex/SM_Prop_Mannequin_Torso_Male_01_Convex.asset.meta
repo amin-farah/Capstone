@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f3418e81e1954841a0b52ac5eeb32e1
+timeCreated: 1625190677
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43387806157361892
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Mannequin_Torso_Male_01_Convex.asset
+  uploadId: 924172

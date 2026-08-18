@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 38f4425d2d9d4d145981a40f93bcddbc
+timeCreated: 1620085371
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Materials/Building_Mats/PolygonShops_Mat_Toilet_01.mat
+  uploadId: 924172

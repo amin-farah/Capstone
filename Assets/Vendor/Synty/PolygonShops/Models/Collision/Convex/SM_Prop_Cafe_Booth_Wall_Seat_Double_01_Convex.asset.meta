@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7ae0f68906fa56a4c86e47dc312cdab8
+timeCreated: 1625190000
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43349786817240482
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Booth_Wall_Seat_Double_01_Convex.asset
+  uploadId: 924172

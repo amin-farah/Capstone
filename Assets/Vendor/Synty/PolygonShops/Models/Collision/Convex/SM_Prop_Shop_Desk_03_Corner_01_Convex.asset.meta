@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ab4113eff301ac249a8b9483d973c798
+timeCreated: 1625192560
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43173599836934860
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Shop_Desk_03_Corner_01_Convex.asset
+  uploadId: 924172

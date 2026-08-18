@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aa785cfb77b482b4b8eba621fd6c8b91
+timeCreated: 1625187506
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43982642088505604
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Banana_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: df25aebd9dc4a4d4a90863b410d90f99
+timeCreated: 1623622964
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Buildings/SM_Bld_Wall_Elevator_Insert_01.prefab
+  uploadId: 924172

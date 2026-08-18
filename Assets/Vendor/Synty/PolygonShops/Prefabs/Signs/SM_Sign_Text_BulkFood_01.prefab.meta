@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a0f142633f4c7e745b0cfc305a71fbfa
+timeCreated: 1622499388
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Text_BulkFood_01.prefab
+  uploadId: 924172

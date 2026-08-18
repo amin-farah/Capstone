@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9dba31394bb8b5e47ad10c19987ca06b
+timeCreated: 1623366683
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_3dText_Joint_01.prefab
+  uploadId: 924172

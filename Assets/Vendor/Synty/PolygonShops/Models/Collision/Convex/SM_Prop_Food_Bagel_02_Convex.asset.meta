@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c42bbd7209fa1b54e9257c7c0ff17dab
+timeCreated: 1625187597
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43853596979452282
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Bagel_02_Convex.asset
+  uploadId: 924172

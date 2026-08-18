@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fc75b09a720f8c14bb7df88dc855c332
+timeCreated: 1625192790
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43497407549273948
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_Rugby_Ball_01_Convex.asset
+  uploadId: 924172

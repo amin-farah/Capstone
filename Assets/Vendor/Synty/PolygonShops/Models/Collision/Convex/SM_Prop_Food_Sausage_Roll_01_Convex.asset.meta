@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a53c61d7c28e46e419ba914b375c734a
+timeCreated: 1625187634
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43900512109106212
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Sausage_Roll_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 56831e758265ed54da172fe3fae2a2b2
+timeCreated: 1625192619
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43966140464509468
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Shop_Cash_Register_03_Convex.asset
+  uploadId: 924172

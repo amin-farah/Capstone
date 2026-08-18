@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b24c3fdd8259ef1458e49d5099ec84cc
+timeCreated: 1620874507
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Computer_Mouse_Box_01.prefab
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0604ff7c98241f74180bddda3d1ed6d4
+timeCreated: 1625190910
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43336656918079120
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Market_Aisle_End_Preset_03_Convex.asset
+  uploadId: 924172

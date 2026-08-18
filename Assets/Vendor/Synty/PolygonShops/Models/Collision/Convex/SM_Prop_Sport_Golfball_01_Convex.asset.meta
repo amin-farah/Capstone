@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f50ce37e034649c4e9ba1567ce883b61
+timeCreated: 1625192653
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43746488887376204
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_Golfball_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4ab968e0ac2d1d749b2c447e03db6d2b
+timeCreated: 1625190037
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43063161826941580
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Booth_Seat_02_Convex.asset
+  uploadId: 924172

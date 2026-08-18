@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5fec4f3839866dc4da5b27902a5f6cee
+timeCreated: 1621221938
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Pizza_Slice_03.prefab
+  uploadId: 924172

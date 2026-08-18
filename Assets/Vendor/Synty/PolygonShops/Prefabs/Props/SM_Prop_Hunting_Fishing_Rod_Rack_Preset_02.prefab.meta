@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 053f89f2d554e1044926dccd68cf39fa
+timeCreated: 1621996135
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Hunting_Fishing_Rod_Rack_Preset_02.prefab
+  uploadId: 924172

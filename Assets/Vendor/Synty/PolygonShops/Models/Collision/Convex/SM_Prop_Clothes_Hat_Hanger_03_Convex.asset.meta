@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3c85a9229a6ec054e8d8aaadda8dac08
+timeCreated: 1625190113
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43519729217045266
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Clothes_Hat_Hanger_03_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b648458aa7aa14a46936c469f4c3ac66
+timeCreated: 1625190321
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43845706627315006
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gym_Speed_Ball_01_Convex.asset
+  uploadId: 924172

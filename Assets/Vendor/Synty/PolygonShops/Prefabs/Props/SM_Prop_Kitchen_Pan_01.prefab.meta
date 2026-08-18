@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5907ff664a0c6ec4aaae4ff7c48f8f45
+timeCreated: 1624933218
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Kitchen_Pan_01.prefab
+  uploadId: 924172

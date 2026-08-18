@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 64aac292aa5e5ca4f9bc7bcfcf94ca39
+timeCreated: 1622499387
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Text_Toilet_01.prefab
+  uploadId: 924172

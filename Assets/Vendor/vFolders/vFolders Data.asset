@@ -15,4 +15,5 @@ MonoBehaviour:
   folderDatas_byGuid:
     keys: []
     values: []
-  bookmarks: []
+  bookmarks:
+  - guid: c4eb28c51800d03459cfa6f4d7506550

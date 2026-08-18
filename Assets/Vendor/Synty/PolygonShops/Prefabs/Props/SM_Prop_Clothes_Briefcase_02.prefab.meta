@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b87d2f40901b3fd4f9dff0b527a70ae5
+timeCreated: 1620874511
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Clothes_Briefcase_02.prefab
+  uploadId: 924172

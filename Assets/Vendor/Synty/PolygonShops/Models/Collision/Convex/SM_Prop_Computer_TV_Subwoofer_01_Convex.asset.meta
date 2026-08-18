@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9a46ea5cd5b71d74090f6afeb8ea5764
+timeCreated: 1625190261
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43258735502754552
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_TV_Subwoofer_01_Convex.asset
+  uploadId: 924172

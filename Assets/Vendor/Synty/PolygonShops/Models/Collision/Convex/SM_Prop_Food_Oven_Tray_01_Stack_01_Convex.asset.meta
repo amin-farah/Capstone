@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 46175892f54315c4fb020ff4fc02f1e2
+timeCreated: 1625187530
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43573639792965210
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Oven_Tray_01_Stack_01_Convex.asset
+  uploadId: 924172

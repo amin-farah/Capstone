@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5a0035559ce106c4084bd5592e7b9de9
+timeCreated: 1625187721
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43539989501511944
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Ribs_Large_Burnt_01_Convex.asset
+  uploadId: 924172

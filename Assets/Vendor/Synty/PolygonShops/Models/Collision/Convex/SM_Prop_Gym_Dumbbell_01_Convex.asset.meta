@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0f3b9e95f0a8ca24d948e58acb068741
+timeCreated: 1625190292
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43171448022978426
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gym_Dumbbell_01_Convex.asset
+  uploadId: 924172

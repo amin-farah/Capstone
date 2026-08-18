@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1a12c79788b05d24b9066a2d6c981ffb
+timeCreated: 1625192674
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43170882021107246
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_Scooter_01_Convex.asset
+  uploadId: 924172

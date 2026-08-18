@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d7c252912d467cb4f9914b6326283830
+timeCreated: 1622171035
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Buildings/SM_Bld_Fountain_01.prefab
+  uploadId: 924172

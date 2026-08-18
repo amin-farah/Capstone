@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b9c105fc4029a1d42aa2a4f78cd22311
+timeCreated: 1625187489
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43423435822657156
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Luncheon_Slice_01_Convex.asset
+  uploadId: 924172

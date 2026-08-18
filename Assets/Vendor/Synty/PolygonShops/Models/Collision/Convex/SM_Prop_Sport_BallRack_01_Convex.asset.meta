@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3c89c20853f06414a81cddecc8818c62
+timeCreated: 1625192580
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43740243918511700
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_BallRack_01_Convex.asset
+  uploadId: 924172

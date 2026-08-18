@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e1532f4a7192d354b9e362384d61551e
+timeCreated: 1625190253
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43798136540769004
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gym_Leg_Curl_01_Convex.asset
+  uploadId: 924172

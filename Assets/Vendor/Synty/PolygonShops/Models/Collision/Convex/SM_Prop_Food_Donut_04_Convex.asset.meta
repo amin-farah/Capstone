@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d132ef5fe18c4fc46b95742e51fc8715
+timeCreated: 1625187719
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43938425493420144
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Donut_04_Convex.asset
+  uploadId: 924172

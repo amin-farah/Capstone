@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f7b5c7d764a2e2448f18475e9ed1af0
+timeCreated: 1625187650
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43955659515534682
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Pizza_Burnt_07_Convex.asset
+  uploadId: 924172

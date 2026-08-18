@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0c7e10b609908144eae2d73c1b10595f
+timeCreated: 1625190318
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43326293244450624
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Flower_Stand_02_Convex.asset
+  uploadId: 924172

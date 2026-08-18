@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6237d8a0438587049b4fd7163cf7e780
+timeCreated: 1625190664
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43119020227360400
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Mannequin_Head_Male_04_Convex.asset
+  uploadId: 924172

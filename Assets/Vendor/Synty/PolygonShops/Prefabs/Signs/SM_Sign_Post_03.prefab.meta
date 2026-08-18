@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dff6a0f72dc53f8488e3655cb571685b
+timeCreated: 1622604636
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Post_03.prefab
+  uploadId: 924172

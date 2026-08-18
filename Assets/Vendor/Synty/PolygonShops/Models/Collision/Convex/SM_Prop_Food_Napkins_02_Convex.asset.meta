@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e8a833d6894c68f42a8ef830983a7716
+timeCreated: 1625187710
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43495769545351684
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Napkins_02_Convex.asset
+  uploadId: 924172

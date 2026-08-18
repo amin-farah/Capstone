@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1f46f0fc3d36ee240975fe8a876cf6be
+timeCreated: 1625192769
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43212136161176576
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Shop_Plinth_01_Small_Convex.asset
+  uploadId: 924172

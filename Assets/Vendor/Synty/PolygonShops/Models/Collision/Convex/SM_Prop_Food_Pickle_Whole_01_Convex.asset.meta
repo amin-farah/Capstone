@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c97f48a1e9d15634789aab52cd36eed1
+timeCreated: 1625187592
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43616904293322530
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Pickle_Whole_01_Convex.asset
+  uploadId: 924172

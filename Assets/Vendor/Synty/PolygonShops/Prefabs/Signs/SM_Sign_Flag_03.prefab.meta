@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f0e880238a1f9f4bbee23d2104b4ac8
+timeCreated: 1622690058
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Flag_03.prefab
+  uploadId: 924172

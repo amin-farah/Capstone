@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: feea39f4726e4b24e96457d30581aa4d
+timeCreated: 1625188048
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43951104871030988
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Generic_Tree_01_Convex.asset
+  uploadId: 924172

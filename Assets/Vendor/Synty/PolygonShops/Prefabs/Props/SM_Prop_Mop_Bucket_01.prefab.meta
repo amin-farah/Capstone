@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7c15bcd6daec50d45afb1bab9fa94e0a
+timeCreated: 1624333871
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Mop_Bucket_01.prefab
+  uploadId: 924172

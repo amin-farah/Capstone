@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 25f1a8b87ebbb7f4dafc58fac1689173
+timeCreated: 1620874540
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Clothes_Display_Box_Green_01.prefab
+  uploadId: 924172

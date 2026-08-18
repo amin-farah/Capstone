@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b4c006fb03ad74e44b22d4f18dae81df
+timeCreated: 1625192610
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43320031890965706
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Wheel_Stop_01_Convex.asset
+  uploadId: 924172

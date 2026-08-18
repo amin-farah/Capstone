@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2e6eab4127ec20346bee17ee460f7f41
+timeCreated: 1625190427
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43095160641539360
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Height_Bar_01_Convex.asset
+  uploadId: 924172

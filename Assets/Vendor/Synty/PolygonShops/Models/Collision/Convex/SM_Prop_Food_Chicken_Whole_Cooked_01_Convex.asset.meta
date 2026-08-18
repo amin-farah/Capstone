@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: edd012b5dbd4d29468389ad94092d832
+timeCreated: 1625187507
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43652128696213576
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Chicken_Whole_Cooked_01_Convex.asset
+  uploadId: 924172

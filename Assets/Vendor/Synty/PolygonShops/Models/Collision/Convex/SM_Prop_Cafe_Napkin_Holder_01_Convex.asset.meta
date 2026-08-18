@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2e318e5bf50a8314d89e687c2675e76a
+timeCreated: 1625189967
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43403207164610212
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Napkin_Holder_01_Convex.asset
+  uploadId: 924172

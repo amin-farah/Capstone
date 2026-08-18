@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cac30f42bd09fe84e8c7de08da90d1bc
+timeCreated: 1625441544
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43985377652703384
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Env_Ground_Divider_03_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7559989c952e160408babaa8ef135fdf
+timeCreated: 1621995326
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Sport_Golf_Club_03.prefab
+  uploadId: 924172

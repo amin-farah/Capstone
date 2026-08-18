@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ecbf6f8811a6fcc4e8ae30c7099cdb9d
+timeCreated: 1625190430
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43877826876855808
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Flower_Bucket_01_Convex.asset
+  uploadId: 924172

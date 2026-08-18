@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 18e7f67fbbc98e14ba20664b68544a5d
+timeCreated: 1625190424
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43675933305378614
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Floor_Polisher_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8a3d7b237d9abc64f983ef2a1d3aef6c
+timeCreated: 1625189565
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43620523790572296
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Blender_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: de5abbc9647d2524cbe221fc555732fe
+timeCreated: 1625190388
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43993201562365316
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Hunting_Animal_Head_03_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 18989967d6465b74ca4a7a1bf8a1e5a1
+timeCreated: 1621229380
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Market_Checkout_Shelf_Large_03.prefab
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e87620e12ccd1264ba8368aeb7836532
+timeCreated: 1625190358
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43743684761161310
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_SatNav_01_Convex.asset
+  uploadId: 924172

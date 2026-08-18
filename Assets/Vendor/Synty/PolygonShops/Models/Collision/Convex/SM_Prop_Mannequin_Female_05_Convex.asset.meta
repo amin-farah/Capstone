@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 80941d50f19cb0a42baa5ee55259e344
+timeCreated: 1625190651
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43654470363906822
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Mannequin_Female_05_Convex.asset
+  uploadId: 924172

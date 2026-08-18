@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0645006daac81104c8335e278bd4a445
+timeCreated: 1620876051
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Buildings/SM_Bld_Shopfront_Door_06.prefab
+  uploadId: 924172

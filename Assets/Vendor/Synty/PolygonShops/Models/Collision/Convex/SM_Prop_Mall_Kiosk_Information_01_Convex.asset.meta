@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cbb37e25fef67724c83aa9ac3b5e4c28
+timeCreated: 1625190656
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43315134213232630
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Mall_Kiosk_Information_01_Convex.asset
+  uploadId: 924172

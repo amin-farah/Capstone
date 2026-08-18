@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7e99885daacc9964a82b2124eb03c00f
+timeCreated: 1621995326
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Sport_Tennis_Racket_Bag_01.prefab
+  uploadId: 924172

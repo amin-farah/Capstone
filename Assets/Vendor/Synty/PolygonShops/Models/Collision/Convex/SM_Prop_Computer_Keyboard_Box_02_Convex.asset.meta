@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fc4cdd552c9f6214e952ef1cb62ef490
+timeCreated: 1625190116
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43987942670913620
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_Keyboard_Box_02_Convex.asset
+  uploadId: 924172

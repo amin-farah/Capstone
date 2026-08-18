@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fdb59772af58c7242ad35544c440ca67
+timeCreated: 1625190291
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43459541148660886
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_Tower_01_Convex.asset
+  uploadId: 924172

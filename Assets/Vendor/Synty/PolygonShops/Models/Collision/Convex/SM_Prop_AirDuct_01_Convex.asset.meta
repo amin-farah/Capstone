@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f8f5c943f99c694489777eb07be28d08
+timeCreated: 1625189634
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43394469738604138
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_AirDuct_01_Convex.asset
+  uploadId: 924172

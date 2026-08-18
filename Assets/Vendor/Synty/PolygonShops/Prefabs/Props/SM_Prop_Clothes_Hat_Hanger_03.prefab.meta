@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1fbe3a75d0222a641a7e01b08978a03c
+timeCreated: 1620874495
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Clothes_Hat_Hanger_03.prefab
+  uploadId: 924172

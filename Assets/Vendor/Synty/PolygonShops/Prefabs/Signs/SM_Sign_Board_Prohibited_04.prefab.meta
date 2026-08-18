@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b7649df85d2ce854d9a5093c2e86d1f2
+timeCreated: 1622604625
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Board_Prohibited_04.prefab
+  uploadId: 924172

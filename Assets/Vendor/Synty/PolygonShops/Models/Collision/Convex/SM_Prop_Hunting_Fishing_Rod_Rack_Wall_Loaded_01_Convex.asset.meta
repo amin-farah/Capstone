@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 17eedde1b2b88fb449ab46b24251f24c
+timeCreated: 1625190322
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43001829930650006
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Hunting_Fishing_Rod_Rack_Wall_Loaded_01_Convex.asset
+  uploadId: 924172

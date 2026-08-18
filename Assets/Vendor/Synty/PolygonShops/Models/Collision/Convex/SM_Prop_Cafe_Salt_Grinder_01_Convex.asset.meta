@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9d85fde5fed2b6b468aec5dea8780b7d
+timeCreated: 1625190022
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43341319572395036
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Salt_Grinder_01_Convex.asset
+  uploadId: 924172

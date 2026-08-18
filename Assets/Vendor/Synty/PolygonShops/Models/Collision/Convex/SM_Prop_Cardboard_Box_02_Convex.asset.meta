@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c4eace5f8dcf5114b9ea014e7d4e4485
+timeCreated: 1625189955
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43795420419697218
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cardboard_Box_02_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 61144bdd21903cb41b361ea7fe7730f5
+timeCreated: 1621221918
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Meat_Patty_Raw_01.prefab
+  uploadId: 924172

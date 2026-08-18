@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41b7529757205ee4b9abec144c8fd5c2
+timeCreated: 1621221891
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Chicken_Pile_03.prefab
+  uploadId: 924172

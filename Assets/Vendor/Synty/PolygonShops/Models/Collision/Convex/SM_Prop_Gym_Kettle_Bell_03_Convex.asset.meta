@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 64bdef02eb17bec419805892db579c2a
+timeCreated: 1625190332
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43833974236897368
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gym_Kettle_Bell_03_Convex.asset
+  uploadId: 924172

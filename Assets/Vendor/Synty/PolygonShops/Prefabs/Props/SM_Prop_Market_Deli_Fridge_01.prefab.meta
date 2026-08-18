@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 640087daaf382f349abd52c8ee8b8d96
+timeCreated: 1621475128
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Market_Deli_Fridge_01.prefab
+  uploadId: 924172

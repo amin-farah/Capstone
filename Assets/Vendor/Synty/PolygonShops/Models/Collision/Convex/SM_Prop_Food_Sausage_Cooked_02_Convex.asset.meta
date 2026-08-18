@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06c57a920df59dc43904227af7e7ec4b
+timeCreated: 1625187613
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43520139931656742
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Sausage_Cooked_02_Convex.asset
+  uploadId: 924172

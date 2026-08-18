@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 26edf1d844443d64a92c731499d022b1
+timeCreated: 1625192601
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43858348625289140
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Toilet_Sink_block_01_Convex.asset
+  uploadId: 924172

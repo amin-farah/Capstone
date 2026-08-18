@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e9225d9240483a47b1b1ecb31113987
+timeCreated: 1623709008
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Buildings/SM_Bld_Wall_Shutter_02.prefab
+  uploadId: 924172

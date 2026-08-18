@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 48800af0e350d704cb2ba30cfc198165
+timeCreated: 1625187499
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43991216838578082
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Wrap_02_Convex.asset
+  uploadId: 924172

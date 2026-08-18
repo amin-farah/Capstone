@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 57e2fe5db903b7941b9a0c5d3535313b
+timeCreated: 1625187534
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43078739646056230
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Quiche_01_Cut_Convex.asset
+  uploadId: 924172

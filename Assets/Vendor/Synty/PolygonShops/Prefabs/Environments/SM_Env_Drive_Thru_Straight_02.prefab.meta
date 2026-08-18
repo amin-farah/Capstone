@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3c167db4018902a4281e9b2314ff41f2
+timeCreated: 1620618375
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Environments/SM_Env_Drive_Thru_Straight_02.prefab
+  uploadId: 924172

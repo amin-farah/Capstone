@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af1e0b15fe3b2f04aa0d3b59301842e3
+timeCreated: 1623366682
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_3dText_Barber_01.prefab
+  uploadId: 924172

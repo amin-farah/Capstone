@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fce1787b778ab5840921e849ed272b9e
+timeCreated: 1625192779
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43629148965431440
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sign_Fish_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f11ddbd56f15c2a40b69b39db7814529
+timeCreated: 1623813621
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Generic/SM_Generic_Small_Rocks_02.prefab
+  uploadId: 924172

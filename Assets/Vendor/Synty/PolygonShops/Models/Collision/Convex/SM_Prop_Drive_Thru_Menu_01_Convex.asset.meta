@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 896850b31db379545b0d140ad3810d8a
+timeCreated: 1625190288
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43566760839879476
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Drive_Thru_Menu_01_Convex.asset
+  uploadId: 924172

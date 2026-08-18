@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2447e79e4b80fdf47adbe8d6c4580181
+timeCreated: 1625187690
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43931698974070318
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Bacon_Egg_Pie_01_Convex.asset
+  uploadId: 924172

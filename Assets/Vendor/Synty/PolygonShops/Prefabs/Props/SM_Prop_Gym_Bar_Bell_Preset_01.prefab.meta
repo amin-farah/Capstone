@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0b07933229baaf640b3215b30c42ec71
+timeCreated: 1620876652
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Gym_Bar_Bell_Preset_01.prefab
+  uploadId: 924172

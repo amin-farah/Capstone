@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d2540522631c1ed4a836c46ee8ccad39
+timeCreated: 1625190449
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43442371317262606
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_Printer_01_Convex.asset
+  uploadId: 924172

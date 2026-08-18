@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 158cbba845023424198a32089b787692
+timeCreated: 1622499391
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Text_Whiteware_01.prefab
+  uploadId: 924172

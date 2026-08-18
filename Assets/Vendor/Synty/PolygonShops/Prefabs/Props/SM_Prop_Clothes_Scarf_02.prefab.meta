@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 24f875bf905b67441b43fb2cd3e58d1c
+timeCreated: 1620874492
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Clothes_Scarf_02.prefab
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91d44e4afd838d543be3f85abc336def
+timeCreated: 1625192638
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43398046398247664
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Shop_Chair_01_Convex.asset
+  uploadId: 924172

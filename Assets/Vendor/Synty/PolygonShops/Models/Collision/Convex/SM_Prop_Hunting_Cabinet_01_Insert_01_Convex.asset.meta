@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e7d9e61a1f15e6428325cdadf9dbec1
+timeCreated: 1625190346
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43791438447206436
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Hunting_Cabinet_01_Insert_01_Convex.asset
+  uploadId: 924172

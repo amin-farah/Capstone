@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2bbef51df52518340b69da514151a9a1
+timeCreated: 1621221910
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Fish_Whole_01.prefab
+  uploadId: 924172

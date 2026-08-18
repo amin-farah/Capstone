@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cd9dbd4a3e4ed6f469fa848e482116cf
+timeCreated: 1625187534
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43451933470951458
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Chicken_Leg_Raw_01_Convex.asset
+  uploadId: 924172

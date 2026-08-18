@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 80be0c4f732552c4689d26b3beb5bf09
+timeCreated: 1625190435
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43218202554381178
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Kitchen_Ice_Cream_Machine_01_Convex.asset
+  uploadId: 924172

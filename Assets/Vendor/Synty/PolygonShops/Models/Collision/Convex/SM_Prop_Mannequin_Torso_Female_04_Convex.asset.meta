@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f14f4780bcafe9f4da6831990c089910
+timeCreated: 1625190658
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43283875128249952
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Mannequin_Torso_Female_04_Convex.asset
+  uploadId: 924172

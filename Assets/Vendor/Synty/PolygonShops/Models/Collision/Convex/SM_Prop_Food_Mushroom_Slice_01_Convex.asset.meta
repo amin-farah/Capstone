@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2a9dadbfe9f54f14486872e4421321d4
+timeCreated: 1625187722
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43633875552134998
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Mushroom_Slice_01_Convex.asset
+  uploadId: 924172

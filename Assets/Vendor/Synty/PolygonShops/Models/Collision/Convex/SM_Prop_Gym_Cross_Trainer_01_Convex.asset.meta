@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c6240f65466f50d468e8045cbfd13d13
+timeCreated: 1625190418
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43430349540963440
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gym_Cross_Trainer_01_Convex.asset
+  uploadId: 924172

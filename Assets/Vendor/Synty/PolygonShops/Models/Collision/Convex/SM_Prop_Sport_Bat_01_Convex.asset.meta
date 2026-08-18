@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cd7d1d0507456274cab8df3f4388aacc
+timeCreated: 1625192842
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43645508613185754
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_Bat_01_Convex.asset
+  uploadId: 924172

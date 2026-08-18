@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 65d3dadb7d3e40e4d97c6a60c4c80d7f
+timeCreated: 1622690659
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Planter_Vase_01.prefab
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: de9d405371b27d24e9cd72433805502f
+timeCreated: 1625189519
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43972504206532830
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Arcade_Machine_Snow_01_Convex.asset
+  uploadId: 924172

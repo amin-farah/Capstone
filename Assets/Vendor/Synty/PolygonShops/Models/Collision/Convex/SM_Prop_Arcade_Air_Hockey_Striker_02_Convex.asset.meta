@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c149d6e9963697048a85c9ff23220afe
+timeCreated: 1625189587
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43776193681564630
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Arcade_Air_Hockey_Striker_02_Convex.asset
+  uploadId: 924172

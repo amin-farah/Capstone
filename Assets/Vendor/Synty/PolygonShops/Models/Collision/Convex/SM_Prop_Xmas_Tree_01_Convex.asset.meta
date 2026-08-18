@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5c59a605a7f538146bd5a3d8dfa79d3d
+timeCreated: 1625192700
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43688177154642342
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Xmas_Tree_01_Convex.asset
+  uploadId: 924172

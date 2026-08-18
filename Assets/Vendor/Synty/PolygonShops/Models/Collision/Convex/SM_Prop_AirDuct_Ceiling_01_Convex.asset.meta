@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4c3f916ac9130d541baacdbddb02120d
+timeCreated: 1625189626
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43546524206727094
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_AirDuct_Ceiling_01_Convex.asset
+  uploadId: 924172

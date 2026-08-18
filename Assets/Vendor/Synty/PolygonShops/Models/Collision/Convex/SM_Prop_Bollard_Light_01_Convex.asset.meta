@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1df29eec1fe2c9d4ab57623c000381fd
+timeCreated: 1625189558
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43878949154982864
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Bollard_Light_01_Convex.asset
+  uploadId: 924172

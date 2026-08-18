@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 12554463e3b3bd14783fa2adec076534
+timeCreated: 1625189615
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43973638703535454
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Arcade_Dance_01_Convex.asset
+  uploadId: 924172

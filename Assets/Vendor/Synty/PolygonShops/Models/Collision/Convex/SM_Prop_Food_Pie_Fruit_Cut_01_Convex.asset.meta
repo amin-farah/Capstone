@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 311cb6426a88d4244a7c78c03cfe6268
+timeCreated: 1625187477
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43619147508274834
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Pie_Fruit_Cut_01_Convex.asset
+  uploadId: 924172

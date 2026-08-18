@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4468d2eebd13e2c4a9b5676e070eaafd
+timeCreated: 1625187504
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43270929997111042
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Cheese_Stack_02_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dc0e7e32ca347674a8572388ea83cbf7
+timeCreated: 1620597625
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Buildings/SM_Bld_Trim_Wall_Block_Top_01_Pillar_01.prefab
+  uploadId: 924172

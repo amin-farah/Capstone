@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 59b24d207e32ca841a4c79ff04fd31d4
+timeCreated: 1625190362
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43233272799469130
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Kitchen_Self_Serve_Machine_02_Convex.asset
+  uploadId: 924172

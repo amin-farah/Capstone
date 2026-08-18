@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 70e94895b0e974e4ca076144fb84409e
+timeCreated: 1620785851
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Planter_Box_03_Mid.prefab
+  uploadId: 924172

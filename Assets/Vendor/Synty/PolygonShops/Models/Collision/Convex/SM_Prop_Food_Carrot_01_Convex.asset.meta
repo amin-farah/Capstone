@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ac057630f21eb794d94bcfad8bb49033
+timeCreated: 1625187633
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43903508694557678
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Carrot_01_Convex.asset
+  uploadId: 924172

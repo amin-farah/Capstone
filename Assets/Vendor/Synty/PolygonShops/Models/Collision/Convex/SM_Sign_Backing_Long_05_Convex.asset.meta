@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4d79f60232721554a851db2818bb2166
+timeCreated: 1625188145
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43803106451934500
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Sign_Backing_Long_05_Convex.asset
+  uploadId: 924172

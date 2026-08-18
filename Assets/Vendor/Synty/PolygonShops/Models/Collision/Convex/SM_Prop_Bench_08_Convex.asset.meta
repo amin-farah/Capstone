@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a4277be800d6b5144a62513318d7946c
+timeCreated: 1625189511
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43355692721855150
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Bench_08_Convex.asset
+  uploadId: 924172

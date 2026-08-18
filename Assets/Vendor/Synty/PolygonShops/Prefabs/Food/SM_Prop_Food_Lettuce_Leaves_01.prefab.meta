@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 70b75dc08fdfbf94281d5fd296623ace
+timeCreated: 1621221917
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Lettuce_Leaves_01.prefab
+  uploadId: 924172

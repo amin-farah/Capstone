@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e40c36a6bf435e046bb630539dca0919
+timeCreated: 1623883230
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Cafe_Oil_Bottle_02.prefab
+  uploadId: 924172

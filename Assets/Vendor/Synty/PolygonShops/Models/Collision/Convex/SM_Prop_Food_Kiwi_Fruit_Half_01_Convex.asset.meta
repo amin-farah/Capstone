@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 56475d715d32f3a4baf16e0c7802bef6
+timeCreated: 1625187478
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43794726238595850
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Kiwi_Fruit_Half_01_Convex.asset
+  uploadId: 924172

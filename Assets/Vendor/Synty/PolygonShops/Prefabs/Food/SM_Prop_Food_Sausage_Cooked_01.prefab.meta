@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e5c49d3eba0992746925b4eb38876a43
+timeCreated: 1621221949
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Sausage_Cooked_01.prefab
+  uploadId: 924172

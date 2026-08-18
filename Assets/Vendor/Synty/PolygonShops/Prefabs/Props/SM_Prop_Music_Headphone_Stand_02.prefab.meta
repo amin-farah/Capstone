@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b2252e1d8e8e1674f8d494c9605f77af
+timeCreated: 1620874540
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Music_Headphone_Stand_02.prefab
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7ccf21bb3d6f86f41bc32ae7f8ee83c4
+timeCreated: 1621221944
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Sandwich_03.prefab
+  uploadId: 924172

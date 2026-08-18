@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6c8dc6ced4ae13e449a84a14023efb3d
+timeCreated: 1625188333
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43910659499798840
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Wep_Hunting_Machete_01_Convex.asset
+  uploadId: 924172

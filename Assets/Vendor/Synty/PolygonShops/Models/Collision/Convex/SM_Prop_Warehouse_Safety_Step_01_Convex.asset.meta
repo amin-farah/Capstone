@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 16a891f2bbdedf244a89bb8e5f781eac
+timeCreated: 1625192572
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43415760589985596
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Warehouse_Safety_Step_01_Convex.asset
+  uploadId: 924172

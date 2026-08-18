@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fe7c544d0e4ea6f44886ba926cccd551
+timeCreated: 1622499385
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Text_Vegetables_01.prefab
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f03734bf1964ff44d863f6d099d2930f
+timeCreated: 1622604638
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Number_Seven_01.prefab
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e9876cc088dd52444a3d5e3e4bfd2144
+timeCreated: 1625187572
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43411540048647562
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Luncheon_Chunk_01_Convex.asset
+  uploadId: 924172

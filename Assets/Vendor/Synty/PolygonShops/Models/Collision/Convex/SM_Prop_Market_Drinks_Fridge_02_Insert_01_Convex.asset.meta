@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d0305f75d1aaca449e7e26328e3ac8d
+timeCreated: 1625190902
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43963316117208482
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Market_Drinks_Fridge_02_Insert_01_Convex.asset
+  uploadId: 924172

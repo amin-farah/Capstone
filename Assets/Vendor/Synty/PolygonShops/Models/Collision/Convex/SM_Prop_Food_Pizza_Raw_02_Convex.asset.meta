@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6dbcf8de9b682a34c88994bd7ed4bbbd
+timeCreated: 1625187538
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43865672985067108
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Pizza_Raw_02_Convex.asset
+  uploadId: 924172

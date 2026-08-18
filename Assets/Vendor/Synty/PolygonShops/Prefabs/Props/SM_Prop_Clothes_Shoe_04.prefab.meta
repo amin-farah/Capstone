@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c8fbaa8c65e7fad4f815f72a045f58db
+timeCreated: 1620874506
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Clothes_Shoe_04.prefab
+  uploadId: 924172

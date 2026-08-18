@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 87153d3349aa9aa4791c1fdbf0e08ff7
+timeCreated: 1623973888
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/FX/FX_Escalator_Preset_01.prefab
+  uploadId: 924172

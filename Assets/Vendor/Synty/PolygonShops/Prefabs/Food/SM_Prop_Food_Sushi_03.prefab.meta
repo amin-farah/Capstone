@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 777030fe1d461ed4ead638c9e3796a83
+timeCreated: 1621221952
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Sushi_03.prefab
+  uploadId: 924172

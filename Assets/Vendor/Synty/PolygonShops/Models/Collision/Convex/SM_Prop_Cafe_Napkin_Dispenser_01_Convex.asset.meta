@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8c51d61bcb7da1d41a08eb843bbce7c9
+timeCreated: 1625189935
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43482441724249666
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Napkin_Dispenser_01_Convex.asset
+  uploadId: 924172

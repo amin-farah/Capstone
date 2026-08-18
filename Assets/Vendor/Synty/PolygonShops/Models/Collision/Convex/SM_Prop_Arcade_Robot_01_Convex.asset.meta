@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2fac125704258444ead5dc454680e0da
+timeCreated: 1625189515
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43632529417042354
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Arcade_Robot_01_Convex.asset
+  uploadId: 924172

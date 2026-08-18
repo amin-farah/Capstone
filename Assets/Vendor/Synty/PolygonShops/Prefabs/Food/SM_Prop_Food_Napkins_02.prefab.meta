@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 74eb58ee3f1f84242b15283d4114617a
+timeCreated: 1621221920
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Napkins_02.prefab
+  uploadId: 924172

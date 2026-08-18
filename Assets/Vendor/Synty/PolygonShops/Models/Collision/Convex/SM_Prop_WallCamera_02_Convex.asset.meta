@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4b1245be97a23cf498d417007040101b
+timeCreated: 1625192799
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43335907318025338
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_WallCamera_02_Convex.asset
+  uploadId: 924172

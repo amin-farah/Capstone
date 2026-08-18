@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 93e9cb4ac4da0ca4c98b5a244c5a091d
+timeCreated: 1625189601
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43322564534918724
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_AirDuctCorner_End_01_Convex.asset
+  uploadId: 924172

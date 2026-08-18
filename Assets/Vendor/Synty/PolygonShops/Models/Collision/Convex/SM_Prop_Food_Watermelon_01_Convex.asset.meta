@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91c12c5831fc5c74aa7d7daf3174534f
+timeCreated: 1625187576
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43787123096476122
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Watermelon_01_Convex.asset
+  uploadId: 924172

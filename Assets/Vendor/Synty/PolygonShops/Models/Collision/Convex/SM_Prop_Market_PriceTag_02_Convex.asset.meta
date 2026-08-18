@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4136e1a29afa9b14198cb3557c03a570
+timeCreated: 1625190857
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43679942520782452
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Market_PriceTag_02_Convex.asset
+  uploadId: 924172

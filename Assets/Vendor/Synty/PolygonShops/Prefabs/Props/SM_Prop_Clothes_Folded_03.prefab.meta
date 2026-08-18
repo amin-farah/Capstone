@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c623acdaacdd06e48969a575a993ea6f
+timeCreated: 1624312375
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Clothes_Folded_03.prefab
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 248c7ebeb5bdad24096677773331dce4
+timeCreated: 1621221940
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Plate_Ribs_01.prefab
+  uploadId: 924172

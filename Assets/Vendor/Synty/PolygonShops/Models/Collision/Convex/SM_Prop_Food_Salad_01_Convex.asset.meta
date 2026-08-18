@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 57aefa76600433f48b795e77f21852b3
+timeCreated: 1625187656
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43701390333295286
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Salad_01_Convex.asset
+  uploadId: 924172

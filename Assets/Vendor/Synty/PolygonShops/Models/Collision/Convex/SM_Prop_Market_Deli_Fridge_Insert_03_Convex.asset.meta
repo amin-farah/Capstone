@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7132954660e5e694ab649193e9a2a0ab
+timeCreated: 1625190870
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43633771875693464
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Market_Deli_Fridge_Insert_03_Convex.asset
+  uploadId: 924172

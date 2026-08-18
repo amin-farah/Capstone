@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d28f87ddceda5c449aa4e9dd0fef95fa
+timeCreated: 1625189987
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43432015907831646
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Menu_Card_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2d8b1faa66ff8f54593e8a75b7e5e71f
+timeCreated: 1621995321
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Sport_Baseball_01.prefab
+  uploadId: 924172

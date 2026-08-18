@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f89fd67ef572fa14897bec2e9b2ba766
+timeCreated: 1625187509
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43763174567781396
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Pear_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 02d93f7fd2e4839498f7e28d5b9c5d25
+timeCreated: 1621985631
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Hunting_Shelf_01_Preset.prefab
+  uploadId: 924172

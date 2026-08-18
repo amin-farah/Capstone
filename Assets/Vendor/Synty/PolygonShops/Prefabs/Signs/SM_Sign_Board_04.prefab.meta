@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a21f45bef3fa36f48a797c37b0be05b4
+timeCreated: 1622604632
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Board_04.prefab
+  uploadId: 924172

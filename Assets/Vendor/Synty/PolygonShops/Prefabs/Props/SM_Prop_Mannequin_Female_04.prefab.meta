@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eb12e6f0011efc140a63c4a7f2cf73ff
+timeCreated: 1621574933
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Mannequin_Female_04.prefab
+  uploadId: 924172

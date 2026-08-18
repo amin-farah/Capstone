@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ab147536927acb14b92e561c0fe11e13
+timeCreated: 1625187685
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43865338856024362
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Pancake_01_Convex.asset
+  uploadId: 924172

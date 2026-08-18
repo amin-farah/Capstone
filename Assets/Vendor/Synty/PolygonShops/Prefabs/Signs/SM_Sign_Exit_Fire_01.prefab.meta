@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9716b5c2d24f90e4e919781b8d7d2e94
+timeCreated: 1622604633
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Exit_Fire_01.prefab
+  uploadId: 924172

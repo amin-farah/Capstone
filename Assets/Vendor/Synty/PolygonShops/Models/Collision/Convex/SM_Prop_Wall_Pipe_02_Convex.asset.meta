@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b92bf495857d2db428efaf670d1a992a
+timeCreated: 1625192540
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43296372274536010
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Wall_Pipe_02_Convex.asset
+  uploadId: 924172

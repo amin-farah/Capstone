@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2e5503bbb45ee3349bdea1674783fb65
+timeCreated: 1625190409
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43493861681869086
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Kitchen_Menu_Screen_01_Convex.asset
+  uploadId: 924172

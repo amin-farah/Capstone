@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8ef8a6dd6059880498791a8429358208
+timeCreated: 1625187632
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43502617715580266
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Ribs_Single_01_Convex.asset
+  uploadId: 924172

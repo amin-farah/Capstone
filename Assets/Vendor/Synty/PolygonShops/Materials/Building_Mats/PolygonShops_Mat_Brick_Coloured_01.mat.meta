@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bb647f2c679e511409ae9e3b9084a912
+timeCreated: 1620085371
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Materials/Building_Mats/PolygonShops_Mat_Brick_Coloured_01.mat
+  uploadId: 924172

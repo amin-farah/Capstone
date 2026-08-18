@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0f5adec202f150c41b97d7f1e55af5f4
+timeCreated: 1625190883
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43812348883288098
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Market_Produce_Stand_04_Convex.asset
+  uploadId: 924172

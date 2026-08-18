@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4cb6fb0a7e1db3e4c9dd531812c7b991
+timeCreated: 1620874542
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Clothes_Shirt_03.prefab
+  uploadId: 924172

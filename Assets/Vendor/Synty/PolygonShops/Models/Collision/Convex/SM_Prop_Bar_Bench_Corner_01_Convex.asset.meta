@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8a47dbfb06fa1fb4fb7727a13a594708
+timeCreated: 1625189556
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43720041811543352
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Bar_Bench_Corner_01_Convex.asset
+  uploadId: 924172

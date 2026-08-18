@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d5b5270b7d9cf6244b93b2481c96dcd8
+timeCreated: 1625438169
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43703470375594988
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Bld_Skylight_Side_01_Convex.asset
+  uploadId: 924172

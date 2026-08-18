@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 635d21f09e583cf48bb9dc455bbc8bf4
+timeCreated: 1625189941
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43804310167110310
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Table_Folding_01_Convex.asset
+  uploadId: 924172

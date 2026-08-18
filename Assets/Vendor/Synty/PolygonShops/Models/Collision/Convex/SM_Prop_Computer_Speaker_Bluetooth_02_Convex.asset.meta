@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2b3ead19b0f71545956fe90dce51247
+timeCreated: 1625190263
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43389155651039142
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_Speaker_Bluetooth_02_Convex.asset
+  uploadId: 924172

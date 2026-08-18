@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3c3f518874d9c094c8dcf33ef3ed99f6
+timeCreated: 1625190282
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43877108243360820
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Kitchen_Stove_Oven_01_Convex.asset
+  uploadId: 924172

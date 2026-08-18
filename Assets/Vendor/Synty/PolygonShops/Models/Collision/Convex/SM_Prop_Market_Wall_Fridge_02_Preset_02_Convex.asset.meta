@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c0f1e49c6d875ef4885a0b40887fe1e3
+timeCreated: 1625192539
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43283204351133888
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Market_Wall_Fridge_02_Preset_02_Convex.asset
+  uploadId: 924172

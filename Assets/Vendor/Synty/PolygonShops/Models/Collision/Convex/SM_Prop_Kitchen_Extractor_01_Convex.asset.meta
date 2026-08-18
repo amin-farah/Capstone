@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2ecf97b048307c342b53430af23c0668
+timeCreated: 1625190445
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43656517720762788
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Kitchen_Extractor_01_Convex.asset
+  uploadId: 924172

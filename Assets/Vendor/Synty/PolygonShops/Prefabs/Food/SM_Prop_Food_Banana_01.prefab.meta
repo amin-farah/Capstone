@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8a9a33f15171d35428af6eb35bbcf952
+timeCreated: 1621221885
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Banana_01.prefab
+  uploadId: 924172

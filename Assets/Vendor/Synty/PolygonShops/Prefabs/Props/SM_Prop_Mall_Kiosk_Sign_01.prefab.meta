@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a611377e45eb6324dbed75433dc63975
+timeCreated: 1620874510
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Mall_Kiosk_Sign_01.prefab
+  uploadId: 924172

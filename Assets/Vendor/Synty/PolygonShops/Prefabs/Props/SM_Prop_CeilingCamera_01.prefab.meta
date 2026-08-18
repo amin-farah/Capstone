@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8dd5fbc4f9d2b8c43bd2ab5b6a8a2c2c
+timeCreated: 1623725542
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_CeilingCamera_01.prefab
+  uploadId: 924172

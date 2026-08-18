@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a804cc5ccfb6cfa4988a14a8df9a9972
+timeCreated: 1625189943
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43966753922100028
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Clothes_Clothes_Shelf_Open_02_Convex.asset
+  uploadId: 924172

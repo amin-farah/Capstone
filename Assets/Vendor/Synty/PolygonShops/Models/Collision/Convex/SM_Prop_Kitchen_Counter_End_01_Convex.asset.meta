@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8b120199f9bd43743bfbdb1b09de1641
+timeCreated: 1625190336
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43579974383456188
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Kitchen_Counter_End_01_Convex.asset
+  uploadId: 924172

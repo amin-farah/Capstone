@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 484dd3c1308e6c849a6904de9f360acb
+timeCreated: 1620874565
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Bench_09.prefab
+  uploadId: 924172

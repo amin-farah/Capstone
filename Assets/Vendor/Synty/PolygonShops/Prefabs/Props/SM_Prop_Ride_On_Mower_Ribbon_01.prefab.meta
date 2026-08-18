@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7e43c7c1a706c004792d2df58da59828
+timeCreated: 1623203409
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Ride_On_Mower_Ribbon_01.prefab
+  uploadId: 924172

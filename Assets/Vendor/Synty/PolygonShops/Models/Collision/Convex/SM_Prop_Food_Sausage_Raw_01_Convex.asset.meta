@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c9f1a59a78211fc4ba219abd71c994b9
+timeCreated: 1625187642
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43813280571593368
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Sausage_Raw_01_Convex.asset
+  uploadId: 924172

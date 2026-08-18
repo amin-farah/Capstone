@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 69ef93eb4fee5c949b4d36f921b845dc
+timeCreated: 1625187676
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43943967988255658
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Oven_Tray_01_Ribs_Cooked_01_Convex.asset
+  uploadId: 924172

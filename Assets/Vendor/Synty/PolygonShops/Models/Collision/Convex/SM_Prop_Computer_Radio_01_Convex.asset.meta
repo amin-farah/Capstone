@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7631dc9c6fe86af45825c7d1546c8198
+timeCreated: 1625190442
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43812622509797524
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_Radio_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bfce1c13b3440f6459f747e0d077657b
+timeCreated: 1622498176
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Large_Repair_01.prefab
+  uploadId: 924172

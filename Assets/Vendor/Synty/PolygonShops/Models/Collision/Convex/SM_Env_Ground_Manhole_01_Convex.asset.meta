@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dd71b8f2810d08146813934b97171a9e
+timeCreated: 1625441593
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43093029248051912
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Env_Ground_Manhole_01_Convex.asset
+  uploadId: 924172

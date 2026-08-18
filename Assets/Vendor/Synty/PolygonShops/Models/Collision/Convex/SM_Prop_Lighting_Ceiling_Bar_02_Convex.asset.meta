@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fb38174f00df35c4dbc3d4908eaa9e39
+timeCreated: 1625190693
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43683543235484440
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Lighting_Ceiling_Bar_02_Convex.asset
+  uploadId: 924172

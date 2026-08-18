@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3b3cf395faf7114459fff7270d82c318
+timeCreated: 1625193117
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43650352875140566
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sign_Chicken_01_Convex
+    1.asset
+  uploadId: 924172

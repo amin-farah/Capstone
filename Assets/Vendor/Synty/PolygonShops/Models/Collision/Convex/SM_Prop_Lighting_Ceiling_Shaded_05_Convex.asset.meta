@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 23b0cbe5e7d57d64fbfdba7925fc03d9
+timeCreated: 1625190709
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43383696603727564
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Lighting_Ceiling_Shaded_05_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e68e4456e577ad14d81f75bfd79f070e
+timeCreated: 1625189590
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43659436932422074
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Barber_Scissors_01_Convex.asset
+  uploadId: 924172

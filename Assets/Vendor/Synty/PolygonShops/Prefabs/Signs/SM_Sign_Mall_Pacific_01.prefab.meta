@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 03295414d4b40144ea1020b70cfdcc80
+timeCreated: 1623363893
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Mall_Pacific_01.prefab
+  uploadId: 924172

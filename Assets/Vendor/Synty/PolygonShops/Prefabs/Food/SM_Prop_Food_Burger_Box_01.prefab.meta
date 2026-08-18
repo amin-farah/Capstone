@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aeefae1ed7a2fcd4b8140e3072f763f1
+timeCreated: 1621221903
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Burger_Box_01.prefab
+  uploadId: 924172

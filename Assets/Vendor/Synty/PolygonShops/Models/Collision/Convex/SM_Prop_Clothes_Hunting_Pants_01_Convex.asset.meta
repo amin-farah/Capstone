@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9e098bcb13fe6114ebaa7623f06eee7d
+timeCreated: 1625190153
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43924145204825874
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Clothes_Hunting_Pants_01_Convex.asset
+  uploadId: 924172

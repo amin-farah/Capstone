@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b3a6336c2f28ff4cab9e5d1d271ceb2
+timeCreated: 1625190344
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43649971245117700
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Hunting_Fishing_Lure_01_Convex.asset
+  uploadId: 924172

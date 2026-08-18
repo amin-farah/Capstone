@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c7ffc390c79f89d48b8bfcccaa01155e
+timeCreated: 1625187513
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43673138994179718
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Burger_01_Convex.asset
+  uploadId: 924172

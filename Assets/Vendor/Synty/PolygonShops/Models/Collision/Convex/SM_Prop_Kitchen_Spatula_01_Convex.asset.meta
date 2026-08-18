@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 721ed54f1593d2e4f86c4e998223796a
+timeCreated: 1625190433
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43793455607891252
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Kitchen_Spatula_01_Convex.asset
+  uploadId: 924172

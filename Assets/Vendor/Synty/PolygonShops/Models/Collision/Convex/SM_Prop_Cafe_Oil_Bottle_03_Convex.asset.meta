@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b83c41a999210a5458037e80d8386444
+timeCreated: 1625190038
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43065842224114430
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Oil_Bottle_03_Convex.asset
+  uploadId: 924172

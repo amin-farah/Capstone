@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dbdb8f23cfba89243b8e14f835347e6a
+timeCreated: 1625190375
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43225442889608696
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_Phone_Cordless_02_Handset_01_Convex.asset
+  uploadId: 924172

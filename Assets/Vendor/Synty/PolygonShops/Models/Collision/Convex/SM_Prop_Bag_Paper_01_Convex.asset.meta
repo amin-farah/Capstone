@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d7993aa82436b7143a9b6e673a2c4925
+timeCreated: 1625189623
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43835988271899130
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Bag_Paper_01_Convex.asset
+  uploadId: 924172

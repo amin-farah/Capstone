@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 065d3864b246d1942aad2d7834afc20f
+timeCreated: 1625192577
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43259160483952788
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Music_Record_01_Convex.asset
+  uploadId: 924172

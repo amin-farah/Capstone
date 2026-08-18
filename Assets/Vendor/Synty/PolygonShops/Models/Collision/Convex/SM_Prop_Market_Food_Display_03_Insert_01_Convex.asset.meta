@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 79e429f6d930516418184cf63c0d2432
+timeCreated: 1625190862
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43132610843672334
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Market_Food_Display_03_Insert_01_Convex.asset
+  uploadId: 924172

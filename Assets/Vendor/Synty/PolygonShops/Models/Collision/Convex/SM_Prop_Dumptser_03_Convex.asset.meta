@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ab6b2808eb143c241965116212c55d26
+timeCreated: 1625190290
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43670843156351222
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Dumptser_03_Convex.asset
+  uploadId: 924172

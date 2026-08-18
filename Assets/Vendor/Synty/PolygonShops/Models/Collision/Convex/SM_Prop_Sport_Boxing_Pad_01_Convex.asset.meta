@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4f0085006e59ce34f94d06835d91b9c4
+timeCreated: 1625192712
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43877971292743930
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_Boxing_Pad_01_Convex.asset
+  uploadId: 924172

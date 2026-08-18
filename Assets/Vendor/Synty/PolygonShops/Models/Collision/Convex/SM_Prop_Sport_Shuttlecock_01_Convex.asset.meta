@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2eab6617dcc931d4ead2951d22ad3944
+timeCreated: 1625192589
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43440903408074866
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_Shuttlecock_01_Convex.asset
+  uploadId: 924172

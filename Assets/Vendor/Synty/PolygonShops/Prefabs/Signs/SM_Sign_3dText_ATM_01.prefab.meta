@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8063a5d2ac673ce4199fbabd131cec05
+timeCreated: 1623366686
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_3dText_ATM_01.prefab
+  uploadId: 924172

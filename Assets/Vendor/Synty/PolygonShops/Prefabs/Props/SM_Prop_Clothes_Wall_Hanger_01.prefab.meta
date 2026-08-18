@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8477289aa6366624da3e000baf8e5d55
+timeCreated: 1620874564
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Clothes_Wall_Hanger_01.prefab
+  uploadId: 924172

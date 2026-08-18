@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 358659e45520fff4989174c4a771fdfe
+timeCreated: 1625192823
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43352704043773386
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_Skateboard_03_Convex.asset
+  uploadId: 924172

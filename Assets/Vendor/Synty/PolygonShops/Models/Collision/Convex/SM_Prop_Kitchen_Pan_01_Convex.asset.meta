@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b1bf06c30fed5914e8bd8d08d9a6741c
+timeCreated: 1625190329
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43346405892707208
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Kitchen_Pan_01_Convex.asset
+  uploadId: 924172

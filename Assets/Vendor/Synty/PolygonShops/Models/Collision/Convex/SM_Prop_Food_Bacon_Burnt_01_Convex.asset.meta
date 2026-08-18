@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5ec953674526a014b8b4e49e6bf757ef
+timeCreated: 1625187517
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43048363789530634
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Bacon_Burnt_01_Convex.asset
+  uploadId: 924172

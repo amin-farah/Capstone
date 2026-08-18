@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5e07a5a6aefad104a85cea07e0b311c8
+timeCreated: 1625189524
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43862373235557410
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_ATM_Back_01_Convex.asset
+  uploadId: 924172

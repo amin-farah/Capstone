@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a64a8bf927816bd4985db9b5f69489d9
+timeCreated: 1625192801
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43680866005658542
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_Gridiron_Ball_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 21933bebb745f6c41807e0e9d2073990
+timeCreated: 1625192570
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43528095902079834
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Music_Speaker_01_Convex.asset
+  uploadId: 924172

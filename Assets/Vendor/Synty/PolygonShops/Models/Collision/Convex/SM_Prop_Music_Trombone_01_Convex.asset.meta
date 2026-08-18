@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d9440ca4e89a240478fbed90188dc256
+timeCreated: 1625192827
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43306405162734176
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Music_Trombone_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5329ce8db7cafd64bbd36557131581b8
+timeCreated: 1625189933
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43046321185861442
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Grinder_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 785d463a10a87e346abc61876c4b3b47
+timeCreated: 1625187676
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43728651808091996
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Croissant_01_Convex.asset
+  uploadId: 924172

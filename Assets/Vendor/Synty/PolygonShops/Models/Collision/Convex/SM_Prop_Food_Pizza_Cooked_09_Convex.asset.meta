@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7c944bc6183085b409663af2e33d4240
+timeCreated: 1625187492
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43630380843219754
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Pizza_Cooked_09_Convex.asset
+  uploadId: 924172

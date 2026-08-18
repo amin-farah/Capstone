@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b2668a24846f992448b0a41435504534
+timeCreated: 1623905147
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_3dText_Letter_Z.prefab
+  uploadId: 924172

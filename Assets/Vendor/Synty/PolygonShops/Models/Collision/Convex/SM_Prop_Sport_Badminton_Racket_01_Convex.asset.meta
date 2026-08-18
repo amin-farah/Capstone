@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4ce81b5a9301faa41a7cf7fab72e9d7f
+timeCreated: 1625192786
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43828716602171716
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sport_Badminton_Racket_01_Convex.asset
+  uploadId: 924172

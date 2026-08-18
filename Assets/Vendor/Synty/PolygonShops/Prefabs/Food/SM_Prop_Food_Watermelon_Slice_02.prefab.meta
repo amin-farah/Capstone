@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da2bb5f5b7a585c4f89070f28ac623bb
+timeCreated: 1621221960
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Watermelon_Slice_02.prefab
+  uploadId: 924172

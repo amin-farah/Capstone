@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5ac4727211a64694bbeb17e30f597271
+timeCreated: 1621221941
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Ribs_Large_Cooked_01.prefab
+  uploadId: 924172

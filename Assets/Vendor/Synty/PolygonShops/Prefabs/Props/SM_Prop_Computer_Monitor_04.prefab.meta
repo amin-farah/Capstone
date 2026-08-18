@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5fbb796f5eb26c248ba94bee5321cd1b
+timeCreated: 1620874513
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Computer_Monitor_04.prefab
+  uploadId: 924172

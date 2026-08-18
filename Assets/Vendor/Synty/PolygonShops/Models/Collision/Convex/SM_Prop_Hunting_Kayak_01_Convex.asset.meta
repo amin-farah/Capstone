@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 681163db3100f4545954c05671f788d8
+timeCreated: 1625190264
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43696730441894868
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Hunting_Kayak_01_Convex.asset
+  uploadId: 924172

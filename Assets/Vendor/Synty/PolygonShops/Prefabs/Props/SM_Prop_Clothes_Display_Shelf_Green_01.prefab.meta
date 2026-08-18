@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eac19983a78fdfe469fc9ebcd146bd8a
+timeCreated: 1620874564
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Clothes_Display_Shelf_Green_01.prefab
+  uploadId: 924172

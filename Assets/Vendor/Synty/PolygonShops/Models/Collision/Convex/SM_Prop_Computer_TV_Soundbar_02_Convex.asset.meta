@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9d6a4e3c75cbc114f9df703e28e85463
+timeCreated: 1625190411
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43190960043415878
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Computer_TV_Soundbar_02_Convex.asset
+  uploadId: 924172

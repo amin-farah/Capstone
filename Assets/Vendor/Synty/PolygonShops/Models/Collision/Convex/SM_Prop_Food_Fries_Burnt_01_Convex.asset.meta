@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 600d2439458842847a2a88c814c9e6d9
+timeCreated: 1625187698
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43291076200603270
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Fries_Burnt_01_Convex.asset
+  uploadId: 924172

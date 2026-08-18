@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c25caae1af279c84aa22c4493a0e73fb
+timeCreated: 1623366683
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_3dText_Hunting_01.prefab
+  uploadId: 924172

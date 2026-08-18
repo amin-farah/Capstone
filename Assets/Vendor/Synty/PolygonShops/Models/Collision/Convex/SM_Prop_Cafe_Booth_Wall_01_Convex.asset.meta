@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b1fe025a5732efb4ba49db5cd88f46fc
+timeCreated: 1625189991
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43980758724763250
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Booth_Wall_01_Convex.asset
+  uploadId: 924172

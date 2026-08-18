@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f488e10fb5a6ebf449da74a702a76534
+timeCreated: 1625189589
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43907695461374510
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Bar_Bottle_07_Convex.asset
+  uploadId: 924172

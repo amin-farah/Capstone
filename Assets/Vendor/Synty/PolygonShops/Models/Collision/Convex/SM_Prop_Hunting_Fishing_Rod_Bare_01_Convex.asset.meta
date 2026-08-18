@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b353e38149230184b8c383a11ccaf479
+timeCreated: 1625190285
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43743372322792610
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Hunting_Fishing_Rod_Bare_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bdb1715638cd6c244b0dc3de4843e226
+timeCreated: 1625192864
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43679716562384274
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Music_Turntable_01_Convex.asset
+  uploadId: 924172

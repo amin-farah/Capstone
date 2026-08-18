@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bc55af8c7a72a0048b53299cb8cc747b
+timeCreated: 1625190157
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43063755306105288
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Clothes_Scarf_Hanger_02_Convex.asset
+  uploadId: 924172

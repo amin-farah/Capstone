@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 83b0bc61013ac1947856d060518385d9
+timeCreated: 1625190284
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43473206622185278
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gym_Step_Platform_01_Convex.asset
+  uploadId: 924172

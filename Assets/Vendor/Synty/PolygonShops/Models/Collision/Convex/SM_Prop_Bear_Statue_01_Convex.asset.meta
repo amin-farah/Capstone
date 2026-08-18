@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dd342e715f6e06d4cb37b3ea36f2125b
+timeCreated: 1625189514
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43940162095916992
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Bear_Statue_01_Convex.asset
+  uploadId: 924172

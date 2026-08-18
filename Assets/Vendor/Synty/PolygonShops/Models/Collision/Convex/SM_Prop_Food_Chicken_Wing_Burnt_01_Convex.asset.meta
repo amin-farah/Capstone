@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ef2acfe8433d9a740b61e59a9a16f5ef
+timeCreated: 1625187707
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43391312189540828
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Chicken_Wing_Burnt_01_Convex.asset
+  uploadId: 924172

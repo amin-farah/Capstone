@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 386888ea1917b004cbabe154e56ea70f
+timeCreated: 1621216848
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Cafe_Parasol_03.prefab
+  uploadId: 924172

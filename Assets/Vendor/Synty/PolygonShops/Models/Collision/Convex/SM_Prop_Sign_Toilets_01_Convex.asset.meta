@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 15741eafdb2862e4d991097f15d54b06
+timeCreated: 1625192682
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43350622395473088
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sign_Toilets_01_Convex.asset
+  uploadId: 924172

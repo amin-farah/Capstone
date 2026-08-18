@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4501afcdfc153304da4c9916561c41ad
+timeCreated: 1625187614
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43936944248230614
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Creamtube_01_Convex.asset
+  uploadId: 924172

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d0269186659609b4f877721e9d06f02c
+timeCreated: 1625192685
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43960758511887270
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Queue_Barrier_Belt_01_Convex.asset
+  uploadId: 924172

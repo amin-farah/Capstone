@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 53a534fb1cc1b6946a5cdbd8fd61b293
+timeCreated: 1625187666
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43143272641843232
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Tray_01_Food_05_Convex.asset
+  uploadId: 924172

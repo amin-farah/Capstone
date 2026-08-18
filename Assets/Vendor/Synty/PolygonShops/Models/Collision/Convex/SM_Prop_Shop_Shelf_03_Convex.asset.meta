@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3cf0154951c8c1f4e9b4a467803181c1
+timeCreated: 1625192582
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43422477253483344
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Shop_Shelf_03_Convex.asset
+  uploadId: 924172

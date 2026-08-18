@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: caba18154b5720640ba2a58a6f7b217d
+timeCreated: 1625190374
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43694685057712666
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Kitchen_WoodenSpoon_01_Convex.asset
+  uploadId: 924172

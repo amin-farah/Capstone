@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dace7bc1a3ac9e4408bb041a5ff426e4
+timeCreated: 1625192777
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43490030625897882
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Sign_WarningSymbol_02_Convex.asset
+  uploadId: 924172

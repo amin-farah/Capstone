@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5199acce0cb8bb84e93e4d04f46d8873
+timeCreated: 1625190256
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43317489792645736
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gym_Bar_Bell_02_Convex.asset
+  uploadId: 924172

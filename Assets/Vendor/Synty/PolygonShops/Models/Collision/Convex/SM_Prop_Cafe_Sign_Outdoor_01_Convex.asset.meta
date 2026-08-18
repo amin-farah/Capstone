@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 534bde25606b04049911ddb547c0dc10
+timeCreated: 1625189974
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43792101437442562
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Sign_Outdoor_01_Convex.asset
+  uploadId: 924172

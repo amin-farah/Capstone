@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b658db8dfc262434995c4ce39180652b
+timeCreated: 1621221906
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Cupcake_02.prefab
+  uploadId: 924172

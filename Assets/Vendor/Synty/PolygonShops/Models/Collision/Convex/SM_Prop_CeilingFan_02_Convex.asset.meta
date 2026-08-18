@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b08aaee636a70844d8b852c57f667977
+timeCreated: 1625190014
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43375710402151626
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_CeilingFan_02_Convex.asset
+  uploadId: 924172

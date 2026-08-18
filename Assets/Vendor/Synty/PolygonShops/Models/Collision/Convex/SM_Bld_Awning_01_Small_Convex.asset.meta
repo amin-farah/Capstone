@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ff0ce18bdc5b71540a3014f6273ecec8
+timeCreated: 1625437465
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43563448903105066
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Bld_Awning_01_Small_Convex.asset
+  uploadId: 924172

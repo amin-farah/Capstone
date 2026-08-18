@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a3291915ff384104491ec669e14fa49a
+timeCreated: 1625187494
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43516485323513100
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Baguette_01_Convex.asset
+  uploadId: 924172

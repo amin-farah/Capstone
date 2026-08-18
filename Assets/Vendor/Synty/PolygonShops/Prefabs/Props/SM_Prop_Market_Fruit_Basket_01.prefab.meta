@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4dc5051806e501d4594d4f1005f6a9bd
+timeCreated: 1621570048
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Props/SM_Prop_Market_Fruit_Basket_01.prefab
+  uploadId: 924172

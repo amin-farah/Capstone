@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ac9cead5e3fa4c2458f9e0f91f6c048e
+timeCreated: 1625192546
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43338940462441074
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Xmas_Present_01_Convex.asset
+  uploadId: 924172

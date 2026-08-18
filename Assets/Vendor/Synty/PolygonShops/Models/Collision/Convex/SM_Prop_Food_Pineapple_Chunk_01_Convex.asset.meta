@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c69611d2c3762364ea1f823f323bfaf1
+timeCreated: 1625187594
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43196613984466868
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Food_Pineapple_Chunk_01_Convex.asset
+  uploadId: 924172

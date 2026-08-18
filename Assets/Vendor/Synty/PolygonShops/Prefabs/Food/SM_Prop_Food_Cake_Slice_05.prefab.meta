@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7844b2fb876abe64e91adec93f07fb68
+timeCreated: 1621221904
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Food/SM_Prop_Food_Cake_Slice_05.prefab
+  uploadId: 924172

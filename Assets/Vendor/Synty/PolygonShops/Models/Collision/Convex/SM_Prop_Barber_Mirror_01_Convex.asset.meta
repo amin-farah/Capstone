@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f68e5b64b1e936d48b253240fb26c3b4
+timeCreated: 1625189561
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43274974520117692
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Barber_Mirror_01_Convex.asset
+  uploadId: 924172

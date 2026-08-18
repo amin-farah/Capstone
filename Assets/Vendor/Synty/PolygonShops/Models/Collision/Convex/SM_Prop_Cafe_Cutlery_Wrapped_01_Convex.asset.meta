@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8a03f8e10a02c3746821cf234c11086d
+timeCreated: 1625189986
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43551473887370778
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Cafe_Cutlery_Wrapped_01_Convex.asset
+  uploadId: 924172

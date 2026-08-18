@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c78878712b3807e4da162260e4f65885
+timeCreated: 1625190477
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 43122055597376650
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Models/Collision/Convex/SM_Prop_Gym_Bench_Press_01_Convex.asset
+  uploadId: 924172

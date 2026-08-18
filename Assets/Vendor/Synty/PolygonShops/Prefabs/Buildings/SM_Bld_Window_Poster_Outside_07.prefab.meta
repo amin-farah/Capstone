@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 24076f2f8d63b0f46ad8bc5e449ea865
+timeCreated: 1622597275
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Buildings/SM_Bld_Window_Poster_Outside_07.prefab
+  uploadId: 924172

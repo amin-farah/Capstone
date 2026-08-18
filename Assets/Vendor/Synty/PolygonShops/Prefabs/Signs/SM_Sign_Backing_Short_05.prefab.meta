@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 339318cd3df61e048a8e771600bf0436
+timeCreated: 1623377644
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 199026
+  packageName: POLYGON - Shops Pack - Art by Synty
+  packageVersion: 1.6.5
+  assetPath: Assets/Synty/PolygonShops/Prefabs/Signs/SM_Sign_Backing_Short_05.prefab
+  uploadId: 924172
